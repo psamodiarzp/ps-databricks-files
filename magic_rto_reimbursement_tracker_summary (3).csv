@@ -1,0 +1,782 @@
+payment_month_year,merchant_id,total_order_count,order_count_w_delivery,order_count_w_rto,email,email_cc,name,rto_invoiced,reminder_sent,rto_amount,invoice_status,status,order_percentage
+2023-04,4af5pL6Gz4AElE,38,35,2,kausshal@teabox.com,diwaker@teabox.com,Teabox,2023-09-12,2023-09-14,300.0,Success,,0.9211
+2023-04,Bair42uufy4vvx,256,0,0,suraj@aegispersonalcare.com,,AEGIS PERSONAL CARE LLP,,2024-11-14,0.0,,Pending status,0.0
+2023-04,CHRCWLxe4ER5GP,55,30,4,hello@livingwaters.co.in ,,Living Waters Creative Studio,,2024-11-14,400.0,,Pending status,0.5455
+2023-04,CjaeQlPFXFvaLN,1125,1118,188,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-10-29,2023-09-14,10948.119999999999,Success,,0.9938
+2023-04,CucIf6figokelh,27,0,0,bombaylooms@gmail.com,,Bombay Looms,,2024-11-14,0.0,,Pending status,0.0
+2023-04,CyFgPUrwzJ5VhG,163,145,15,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-08-26,2024-08-14,1200.0,Success,Successful,0.8896
+2023-04,DRA8pvry1C4oTC,730,730,70,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-10-29,,8750.0,Success,,1.0
+2023-04,DUKiYoYvbaUXud,1295,0,0,folliculartechnologies@gmail.com,,follicular technologies private limited,,2024-11-14,0.0,,Pending status,0.0
+2023-04,Dq1Jah4WlPL0qX,80,75,18,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,2023-10-29,,1350.0,Success,,0.9375
+2023-04,Dq7VZ3fMp7qQQ7,1336,1323,242,sugandhini@thehadenaturals.com,,The Hade,2023-10-29,,13392.699999999999,Success,,0.9903
+2023-04,E2NWmnnFI68dlm,158,150,17,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-01-10,2023-12-28,5950.0,Success,,0.9494
+2023-04,EFuW7roPMY4a1a,958,818,106,namhyafoods@gmail.com,,Namhya foods Private limited,2023-10-29,2023-09-14,7950.0,Success,,0.8539
+2023-04,Eh1Ax67DJ9mNdY,35,9,4,info@leaderbicycles.com,,Jindal Fine Industries,,2024-11-14,3200.0,,Pending status,0.2571
+2023-04,EyqQxodBBBYpm6,812,760,168,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-08-11,2024-07-28,13440.0,Success,Successful,0.936
+2023-04,FGmEEx9rbF5e8F,588,560,133,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2023-10-19,,9975.0,Success,,0.9524
+2023-04,FR2kZCaWIQTnDn,5463,4538,820,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,98160.0,Success,Successful,0.8307
+2023-04,FiVc88jM7AeSta,343,214,23,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,5410.12,,Pending status,0.6239
+2023-04,G4WBGNh0UU0RUp,659,659,103,support@stylefeathers.com,,Style Feathers,2023-11-18,2023-11-14,6050.339999999999,Success,,1.0
+2023-04,G6XfSND0uWWQzn,3,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-04,GU1l44CZy5ajTk,18,18,4,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,2023-10-29,2023-09-14,320.0,Success,,1.0
+2023-04,GX2Z0I7L07K19g,7,4,0,"info@notsosure.in
+",,NOTSOSURE,,,0.0,Success,,0.5714
+2023-04,GYxvSchZt2syEE,532,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-04,GaFX8ZqIdqtVd0,517,492,95,wearhousewolves@gmail.com,,Wearhouse wolves,2023-10-29,,7600.0,Success,,0.9516
+2023-04,GlLXGUtKUrQHtj,1733,1179,774,darshan.chhajed@symphonylimited.com,rajeev.jha@symphonylimited.com,SYMPHONYLIMITED,,2024-11-14,270900.0,,Pending status,0.6803
+2023-04,Glk1BQ6cvvA8DJ,483,463,72,jhashankgupta@gmail.com,,Lazo,2023-11-30,2023-11-28,5760.0,Success,,0.9586
+2023-04,GyK5nF2BXsxj37,32,6,0,ayush@dugaroverseas.com,,DUGAR OVERSEAS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.1875
+2023-04,HDo52FrQhJj1iQ,692,623,193,vimal@awesomefab.in,,AWESOMEFAB SHOPPING PRIVATE LIMITED,2023-10-29,,15440.0,Success,,0.9003
+2023-04,HJHvrI58d1PqIe,1187,1155,224,japjeet@fflirtygo.com,,Graffiti,2023-10-29,,17920.0,Success,,0.973
+2023-04,HpV1CS2H4GXtsC,673,385,80,help@decorbajar.com,,Decorbajar,,2024-11-14,8000.0,,Pending status,0.5721
+2023-04,HqywhSmhfWBnE5,711,164,164,smitgada15@gmail.com,,ZIVIRA FASHION,,2024-11-14,16400.0,,Pending status,0.2307
+2023-04,ICmqJzaoWUpyj6,84,79,24,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,2023-10-29,2023-09-14,1440.0,Success,,0.9405
+2023-04,IEJ3ZdumZca2sH,25,0,0,shruti.bodd@gmail.com,,DUSAN FASHIONS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-04,ITMw84kujaCKhO,230,26,26,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,6500.0,,Pending status,0.113
+2023-04,IoHIhwtDlPuhkJ,195,68,9,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-11-14,720.0,,Pending status,0.3487
+2023-04,IoIOst27rgeWOR,35,0,0,aesthesy.store@gmail.com,,Mango Media,,2024-11-14,0.0,,Pending status,0.0
+2023-04,IxuoDJGFt0deyp,152,0,0,tomberamoureuxin@gmail.com,,Tomber Amoureux,,2024-11-14,0.0,,Pending status,0.0
+2023-04,J48RMdC1b73dYg,837,837,32,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,2023-10-29,2023-09-14,3200.0,Success,,1.0
+2023-04,J9gbExGT03ZUbk,2,0,0,innovationwakeup@gmail.com,,Wakeup Innovation Private Limited,,2024-11-14,0.0,,Pending status,0.0
+2023-04,JNrymGlbgxRl04,133,32,1,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,,2024-11-14,49.28,,Pending status,0.2406
+2023-04,JWOhiDzI1AfUCS,30,30,3,info@sneakare.com,krishnav@sneakare.com,BUILDOUT RETAIL PRIVATE LIMITED,2023-07-08,2023-09-14,207.7,Success,,1.0
+2023-04,Je6WBJUrSvp7Ut,47,38,4,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2023-10-29,2023-09-14,500.0,Success,,0.8085
+2023-04,JkuJOHbtFLHR1p,172,6,6,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,,2023-09-14,600.0,Success,,0.0349
+2023-04,JndcnDLnC64PHT,252,52,52,"ronak@shopmistry.com
+",nupur@shopmistry.com,Mistry Accessories,,2024-11-14,7800.0,,Pending status,0.2063
+2023-04,Kn942MGXKqNPT8,251,132,44,thomas@scentialsworld.com,,MAHESH BHUPATHI FRAGRANCES LLP,,2024-11-14,3520.0,,Pending status,0.5259
+2023-05,4af5pL6Gz4AElE,18,16,0,kausshal@teabox.com,diwaker@teabox.com,Teabox,,2024-11-14,0.0,,Incorrect status,0.8889
+2023-05,Bair42uufy4vvx,127,0,0,suraj@aegispersonalcare.com,,AEGIS PERSONAL CARE LLP,,2024-11-14,0.0,,Pending status,0.0
+2023-05,CHRCWLxe4ER5GP,54,43,2,hello@livingwaters.co.in ,,Living Waters Creative Studio,,2024-11-14,200.0,,Pending status,0.7963
+2023-05,CjaeQlPFXFvaLN,1027,1026,179,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-10-29,2023-09-14,11559.1,Success,,0.999
+2023-05,CyFgPUrwzJ5VhG,294,276,33,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2023-10-29,,2640.0,Success,,0.9388
+2023-05,DRA8pvry1C4oTC,1719,1710,156,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-10-29,,19500.0,Success,,0.9948
+2023-05,DUKiYoYvbaUXud,1646,0,0,folliculartechnologies@gmail.com,,follicular technologies private limited,,2024-11-14,0.0,,Pending status,0.0
+2023-05,Dq1Jah4WlPL0qX,227,201,20,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,2023-10-29,,1500.0,Success,,0.8855
+2023-05,Dq7VZ3fMp7qQQ7,175,175,24,sugandhini@thehadenaturals.com,,The Hade,2023-10-29,,1237.6200000000001,Success,,1.0
+2023-05,E2NWmnnFI68dlm,158,158,12,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-02-01,2024-01-28,4200.0,Success,,1.0
+2023-05,EFuW7roPMY4a1a,60,52,13,namhyafoods@gmail.com,,Namhya foods Private limited,2023-10-29,2023-09-14,975.0,Success,,0.8667
+2023-05,EfPwexBImj5oxv,3,0,0,glacerceramic@gmail.com,,Glacer Ceramic,,2024-11-14,0.0,,Pending status,0.0
+2023-05,Eh1Ax67DJ9mNdY,2,0,0,info@leaderbicycles.com,,Jindal Fine Industries,,2024-11-14,0.0,,Pending status,0.0
+2023-05,EyqQxodBBBYpm6,1117,1082,237,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2023-10-29,,18960.0,Success,,0.9687
+2023-05,FGmEEx9rbF5e8F,694,668,183,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2023-10-19,,13725.0,Success,,0.9625
+2023-05,FR2kZCaWIQTnDn,4170,3853,1008,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,91800.0,Success,Successful,0.924
+2023-05,FiVc88jM7AeSta,347,261,34,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,7467.74,,Pending status,0.7522
+2023-05,G4WBGNh0UU0RUp,645,645,82,support@stylefeathers.com,,Style Feathers,2023-11-18,2023-11-14,4442.98,Success,,1.0
+2023-05,G6XfSND0uWWQzn,10,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-05,GU1l44CZy5ajTk,34,34,6,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,2023-10-29,2023-09-14,480.0,Success,,1.0
+2023-05,GX2Z0I7L07K19g,30,15,5,"info@notsosure.in
+",,NOTSOSURE,,,1250.0,Success,,0.5
+2023-05,GYxvSchZt2syEE,592,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-05,GaFX8ZqIdqtVd0,535,507,58,wearhousewolves@gmail.com,,Wearhouse wolves,2023-10-29,,4640.0,Success,,0.9477
+2023-05,GlLXGUtKUrQHtj,541,274,260,darshan.chhajed@symphonylimited.com,rajeev.jha@symphonylimited.com,SYMPHONYLIMITED,,2024-11-14,91000.0,,Pending status,0.5065
+2023-05,Glk1BQ6cvvA8DJ,685,659,116,jhashankgupta@gmail.com,,Lazo,2023-11-30,2023-11-28,9280.0,Success,,0.962
+2023-05,GyK5nF2BXsxj37,252,101,0,ayush@dugaroverseas.com,,DUGAR OVERSEAS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.4008
+2023-05,HDo52FrQhJj1iQ,551,305,88,vimal@awesomefab.in,,AWESOMEFAB SHOPPING PRIVATE LIMITED,,2024-11-14,7040.0,,Pending status,0.5535
+2023-05,HJHvrI58d1PqIe,705,686,84,japjeet@fflirtygo.com,,Graffiti,2023-10-29,,6720.0,Success,,0.973
+2023-05,HlwbxJbuVSfd60,130,111,6,kiayashopindia@gmail.com,,Kiaya Accessories (MSC Group),2023-10-29,,480.0,Success,,0.8538
+2023-05,HpV1CS2H4GXtsC,704,443,87,help@decorbajar.com,,Decorbajar,,2024-11-14,8100.0,,Pending status,0.6293
+2023-05,HqywhSmhfWBnE5,639,140,140,smitgada15@gmail.com,,ZIVIRA FASHION,,2024-11-14,14000.0,,Pending status,0.2191
+2023-05,HwvQnDULtFSfih,119,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-05,ICmqJzaoWUpyj6,109,104,39,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,2023-10-29,2023-09-14,2220.0,Success,,0.9541
+2023-05,ITMw84kujaCKhO,590,49,49,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,12250.0,,Pending status,0.0831
+2023-05,IoHIhwtDlPuhkJ,131,64,2,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-11-14,160.0,,Pending status,0.4885
+2023-05,IoIOst27rgeWOR,217,3,0,aesthesy.store@gmail.com,,Mango Media,,2024-11-14,0.0,,Pending status,0.0138
+2023-05,J48RMdC1b73dYg,931,804,72,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,2023-11-11,2023-10-28,6400.0,Success,,0.8636
+2023-05,JNrymGlbgxRl04,175,61,1,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,,2024-11-14,39.0,,Pending status,0.3486
+2023-05,JWOhiDzI1AfUCS,29,29,4,info@sneakare.com,krishnav@sneakare.com,BUILDOUT RETAIL PRIVATE LIMITED,2023-07-08,2023-09-14,239.92000000000002,Success,,1.0
+2023-05,Je6WBJUrSvp7Ut,60,47,6,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,,2024-11-14,750.0,,Pending status,0.7833
+2023-05,JkuJOHbtFLHR1p,257,16,16,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,,2023-09-14,1600.0,Success,,0.0623
+2023-05,JndcnDLnC64PHT,254,46,46,"ronak@shopmistry.com
+",nupur@shopmistry.com,Mistry Accessories,,2024-11-14,6900.0,,Pending status,0.1811
+2023-05,KIY9827AFygB6n,32,0,0,vatkistore@gmail.com,,shyam creation,,2024-11-14,0.0,,Pending status,0.0
+2023-05,KV9N7Dk5Fe5OSm,8,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-05,KcOxexsd6DtRgb,23,20,9,natureplants07@gmail.com,,Nature Plants,2023-10-29,,540.0,Success,,0.8696
+2023-05,KjPAo41feOMl8g,1,0,0,shriyash@ecommasters.in,,EVERYTHING BEAUTIFUL RETAIL PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-05,Kn942MGXKqNPT8,303,250,58,thomas@scentialsworld.com,,MAHESH BHUPATHI FRAGRANCES LLP,2023-10-29,,4640.0,Success,,0.8251
+2023-06,4af5pL6Gz4AElE,12,11,0,kausshal@teabox.com,diwaker@teabox.com,Teabox,2023-07-20,2024-11-14,0.0,,Incorrect status,0.9167
+2023-06,BqXXZlzZJLWsIV,257,0,0,jankee@fancypantsthestore.com,,Fancy Pants Apparels LLP,,2024-11-14,0.0,,Pending status,0.0
+2023-06,CHRCWLxe4ER5GP,44,32,0,hello@livingwaters.co.in ,,Living Waters Creative Studio,,2024-11-14,0.0,,Pending status,0.7273
+2023-06,ChdCdGm7TvuVk6,5,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-06,CjaeQlPFXFvaLN,546,543,69,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-10-29,2023-09-14,4070.9799999999996,Success,,0.9945
+2023-06,CtHTcKWCa4ZDeF,92,84,22,shwetashivkumar@ymail.com,,whysoblue,2023-10-29,,4400.0,Success,,0.913
+2023-06,CyFgPUrwzJ5VhG,496,484,65,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-08-18,2024-08-14,5200.0,Success,Successful,0.9758
+2023-06,DRA8pvry1C4oTC,1955,1954,177,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-10-29,,22125.0,Success,,0.9995
+2023-06,DUKiYoYvbaUXud,2121,1,0,folliculartechnologies@gmail.com,,follicular technologies private limited,,2024-11-14,0.0,,Pending status,0.0005
+2023-06,DkYdOAXPbbqFwT,743,742,105,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2023-10-19,,6300.0,Success,,0.9987
+2023-06,Dq1Jah4WlPL0qX,254,162,0,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,,2024-11-14,0.0,,Pending status,0.6378
+2023-06,E2NWmnnFI68dlm,81,81,15,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-02-01,2024-01-28,5250.0,Success,,1.0
+2023-06,EJu3xUe1qpgeB8,133,133,21,gauravkhurana1987@gmail.com,,Aganya Kreations,2023-10-29,,2625.0,Success,,1.0
+2023-06,ENiPCFOS3inLT5,51,51,5,neerajchawla@yahoo.com,,Odara Jewellery,2023-10-29,,625.0,Success,,1.0
+2023-06,EfPwexBImj5oxv,225,3,0,glacerceramic@gmail.com,,Glacer Ceramic,,2024-11-14,0.0,,Pending status,0.0133
+2023-06,EyqQxodBBBYpm6,2301,2212,760,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-08-04,2024-07-28,60800.0,Success,Successful,0.9613
+2023-06,F2L5s2oVIM77WV,1055,0,0,avartan@taramislabs.com,,Taramis Labs Private Limited ,,2024-11-14,0.0,,Pending status,0.0
+2023-06,FGmEEx9rbF5e8F,553,541,133,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2023-10-19,,9975.0,Success,,0.9783
+2023-06,FR2kZCaWIQTnDn,5144,4725,1560,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,145920.0,Success,Successful,0.9185
+2023-06,FiVc88jM7AeSta,54,34,5,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,1250.0,,Pending status,0.6296
+2023-06,FjdlljXBLPV7rF,851,851,86,sunmoonorganics@gmail.com,,Sunmoon Organics,2023-10-29,,3650.0,Success,,1.0
+2023-06,G4WBGNh0UU0RUp,734,734,47,support@stylefeathers.com,,Style Feathers,2023-11-18,2023-11-14,2750.2800000000007,Success,,1.0
+2023-06,G6XfSND0uWWQzn,11,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-06,GU1l44CZy5ajTk,2,2,1,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,2023-10-29,2023-09-14,80.0,Success,,1.0
+2023-06,GX2Z0I7L07K19g,18,6,2,"info@notsosure.in
+",,NOTSOSURE,,,500.0,Success,,0.3333
+2023-06,GYxvSchZt2syEE,561,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-06,GaFX8ZqIdqtVd0,690,275,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-11-14,0.0,,Pending status,0.3986
+2023-06,Glk1BQ6cvvA8DJ,622,576,109,jhashankgupta@gmail.com,,Lazo,2023-11-30,2023-11-28,8720.0,Success,,0.926
+2023-06,GyK5nF2BXsxj37,252,23,0,ayush@dugaroverseas.com,,DUGAR OVERSEAS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0913
+2023-06,HDo52FrQhJj1iQ,1402,735,0,vimal@awesomefab.in,,AWESOMEFAB SHOPPING PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.5243
+2023-06,HJHvrI58d1PqIe,377,357,50,japjeet@fflirtygo.com,,Graffiti,2023-10-29,,4000.0,Success,,0.9469
+2023-06,HlwbxJbuVSfd60,130,88,12,kiayashopindia@gmail.com,,Kiaya Accessories (MSC Group),,2024-11-14,960.0,,Pending status,0.6769
+2023-06,HpV1CS2H4GXtsC,594,359,53,help@decorbajar.com,,Decorbajar,,2024-11-14,4300.0,,Pending status,0.6044
+2023-06,HqywhSmhfWBnE5,1010,137,137,smitgada15@gmail.com,,ZIVIRA FASHION,,2024-11-14,13700.0,,Pending status,0.1356
+2023-06,HwvQnDULtFSfih,202,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-06,ICmqJzaoWUpyj6,84,80,20,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,2023-10-29,2023-09-14,600.0,Success,,0.9524
+2023-06,ITMw84kujaCKhO,459,57,57,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,14250.0,,Pending status,0.1242
+2023-06,IoHIhwtDlPuhkJ,54,25,0,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-11-14,0.0,,Pending status,0.463
+2023-06,IoIOst27rgeWOR,17,1,1,aesthesy.store@gmail.com,,Mango Media,,2024-11-14,125.0,,Pending status,0.0588
+2023-06,J48RMdC1b73dYg,790,563,62,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-11-14,5100.0,,Pending status,0.7127
+2023-06,JNrymGlbgxRl04,181,173,8,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2023-10-29,2023-09-14,371.6,Success,,0.9558
+2023-06,JWOhiDzI1AfUCS,98,98,10,info@sneakare.com,krishnav@sneakare.com,BUILDOUT RETAIL PRIVATE LIMITED,2023-07-20,2023-09-14,496.01,Success,,1.0
+2023-06,Je6WBJUrSvp7Ut,47,45,6,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2023-10-29,2023-09-14,750.0,Success,,0.9574
+2023-06,JkuJOHbtFLHR1p,428,32,32,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,,2023-09-14,3200.0,Success,,0.0748
+2023-06,JndcnDLnC64PHT,185,11,11,"ronak@shopmistry.com
+",nupur@shopmistry.com,Mistry Accessories,,2024-11-14,1650.0,,Pending status,0.0595
+2023-06,KV9N7Dk5Fe5OSm,126,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-06,KcOxexsd6DtRgb,12,4,1,natureplants07@gmail.com,,Nature Plants,,2024-11-14,60.0,,Pending status,0.3333
+2023-06,KjPAo41feOMl8g,3,0,0,shriyash@ecommasters.in,,EVERYTHING BEAUTIFUL RETAIL PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-06,Kn942MGXKqNPT8,111,82,17,thomas@scentialsworld.com,,MAHESH BHUPATHI FRAGRANCES LLP,,2024-11-14,1360.0,,Pending status,0.7387
+2023-07,4af5pL6Gz4AElE,2,0,0,kausshal@teabox.com,diwaker@teabox.com,Teabox,,2024-11-14,0.0,,Pending status,0.0
+2023-07,BqXXZlzZJLWsIV,198,0,0,jankee@fancypantsthestore.com,,Fancy Pants Apparels LLP,,2024-11-14,0.0,,Pending status,0.0
+2023-07,CHRCWLxe4ER5GP,47,37,0,hello@livingwaters.co.in ,,Living Waters Creative Studio,,2024-11-14,0.0,,Pending status,0.7872
+2023-07,ChdCdGm7TvuVk6,9,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-07,CjaeQlPFXFvaLN,813,812,111,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-10-29,2023-09-14,6487.4,Success,,0.9988
+2023-07,CtHTcKWCa4ZDeF,203,174,41,shwetashivkumar@ymail.com,,whysoblue,2023-10-29,,8200.0,Success,,0.8571
+2023-07,CyFgPUrwzJ5VhG,435,421,54,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-05-31,2024-05-14,4320.0,Success,Successful,0.9678
+2023-07,DRA8pvry1C4oTC,2036,2026,183,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-10-29,,22875.0,Success,,0.9951
+2023-07,DUKiYoYvbaUXud,3166,21,0,folliculartechnologies@gmail.com,,follicular technologies private limited,,2024-11-14,0.0,,Pending status,0.0066
+2023-07,DkYdOAXPbbqFwT,757,752,118,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2023-10-19,,7080.0,Success,,0.9934
+2023-07,Dq1Jah4WlPL0qX,8,1,0,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,,2024-11-14,0.0,,Pending status,0.125
+2023-07,EJu3xUe1qpgeB8,175,173,31,gauravkhurana1987@gmail.com,,Aganya Kreations,2023-10-29,,3875.0,Success,,0.9886
+2023-07,EfPwexBImj5oxv,247,128,19,glacerceramic@gmail.com,,Glacer Ceramic,,2024-11-14,9500.0,,Pending status,0.5182
+2023-07,EyqQxodBBBYpm6,1437,1390,323,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-08-11,2024-07-28,25840.0,Success,Successful,0.9673
+2023-07,FGmEEx9rbF5e8F,294,287,67,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,,,5025.0,Success,,0.9762
+2023-07,FR2kZCaWIQTnDn,6246,5534,1676,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,161640.0,Success,Successful,0.886
+2023-07,FiVc88jM7AeSta,71,18,2,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,500.0,,Pending status,0.2535
+2023-07,FjdlljXBLPV7rF,2555,2555,359,sunmoonorganics@gmail.com,,Sunmoon Organics,2023-10-29,,7700.0,Success,,1.0
+2023-07,G4WBGNh0UU0RUp,1244,1244,218,support@stylefeathers.com,,Style Feathers,2023-11-18,2023-11-14,12158.599999999999,Success,,1.0
+2023-07,G6XfSND0uWWQzn,19,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-07,GX2Z0I7L07K19g,14,3,3,"info@notsosure.in
+",,NOTSOSURE,,,750.0,Success,,0.2143
+2023-07,GYxvSchZt2syEE,778,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-07,GaFX8ZqIdqtVd0,614,480,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-11-14,0.0,,Pending status,0.7818
+2023-07,Glk1BQ6cvvA8DJ,570,525,118,jhashankgupta@gmail.com,,Lazo,2023-11-30,2023-11-28,9440.0,Success,,0.9211
+2023-07,HDo52FrQhJj1iQ,1563,1281,0,vimal@awesomefab.in,,AWESOMEFAB SHOPPING PRIVATE LIMITED,,2024-11-14,0.0,,Incorrect status,0.8196
+2023-07,HJHvrI58d1PqIe,468,459,69,japjeet@fflirtygo.com,,Graffiti,2023-10-29,,5520.0,Success,,0.9808
+2023-07,HakfWT9UoxpRxO,227,107,49,organikobl@gmail.com,,BEAUTILISHIYA PRODUCTS PRIVATE LIMITED,,,780.0,Success,,0.4714
+2023-07,HpV1CS2H4GXtsC,314,193,27,help@decorbajar.com,,Decorbajar,,2024-11-14,1300.0,,Pending status,0.6146
+2023-07,HqywhSmhfWBnE5,894,0,0,smitgada15@gmail.com,,ZIVIRA FASHION,,2024-11-14,0.0,,Pending status,0.0
+2023-07,HwvQnDULtFSfih,371,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-07,ICmqJzaoWUpyj6,40,6,3,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-11-14,0.0,,Pending status,0.15
+2023-07,IEJDxs6E57EG8a,167,126,38,info@7-10.in,,Sanghvi Erectors Pvt Limited,,2024-11-14,4750.0,,Pending status,0.7545
+2023-07,IJosFOZfgVbMAM,232,232,27,krish@assemblytravel.com ,adarsh@assemblytravel.com,DISMANTLE DIGITAL PRIVATE LIMITED,2023-11-18,2023-11-14,9450.0,Success,,1.0
+2023-07,ITMw84kujaCKhO,379,44,44,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,11000.0,,Pending status,0.1161
+2023-07,IoHIhwtDlPuhkJ,39,27,2,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-11-14,160.0,,Pending status,0.6923
+2023-07,J48RMdC1b73dYg,733,505,60,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-11-14,4900.0,,Pending status,0.6889
+2023-07,JNrymGlbgxRl04,191,191,7,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2023-10-29,2023-09-14,447.96000000000004,Success,,1.0
+2023-07,JWOhiDzI1AfUCS,4,4,1,info@sneakare.com,krishnav@sneakare.com,BUILDOUT RETAIL PRIVATE LIMITED,2023-08-16,2023-09-14,44.0,Success,,1.0
+2023-07,Je6WBJUrSvp7Ut,32,31,5,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2023-10-29,2023-09-14,625.0,Success,,0.9688
+2023-07,JkuJOHbtFLHR1p,454,20,20,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,,2023-09-14,2000.0,Success,,0.0441
+2023-07,JndcnDLnC64PHT,166,0,0,"ronak@shopmistry.com
+",nupur@shopmistry.com,Mistry Accessories,,2024-11-14,0.0,,Pending status,0.0
+2023-07,KV9N7Dk5Fe5OSm,290,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-08,4af5pL6Gz4AElE,8,8,1,kausshal@teabox.com,diwaker@teabox.com,Teabox,2023-09-14,,150.0,Success,,1.0
+2023-08,CHRCWLxe4ER5GP,20,18,0,hello@livingwaters.co.in ,,Living Waters Creative Studio,,2024-11-14,0.0,,Incorrect status,0.9
+2023-08,ChdCdGm7TvuVk6,34,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-08,CjaeQlPFXFvaLN,662,662,113,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-10-29,,6548.43,Success,,1.0
+2023-08,CtHTcKWCa4ZDeF,167,149,21,shwetashivkumar@ymail.com,,whysoblue,2023-10-29,,4200.0,Success,,0.8922
+2023-08,CyFgPUrwzJ5VhG,667,651,69,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-05-31,2024-05-14,5520.0,Success,Successful,0.976
+2023-08,DRA8pvry1C4oTC,1739,1732,173,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-10-29,,21625.0,Success,,0.996
+2023-08,DUKiYoYvbaUXud,412,2,2,folliculartechnologies@gmail.com,,follicular technologies private limited,,2024-11-14,150.0,,Pending status,0.0049
+2023-08,DkYdOAXPbbqFwT,778,776,117,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2023-10-19,,7020.0,Success,,0.9974
+2023-08,Dq1Jah4WlPL0qX,84,0,0,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,,2024-11-14,0.0,,Pending status,0.0
+2023-08,EJu3xUe1qpgeB8,213,213,38,gauravkhurana1987@gmail.com,,Aganya Kreations,2023-10-29,,4750.0,Success,,1.0
+2023-08,EfPwexBImj5oxv,8,0,0,glacerceramic@gmail.com,,Glacer Ceramic,,2024-11-14,0.0,,Pending status,0.0
+2023-08,EyqQxodBBBYpm6,1572,1516,410,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-08-10,2024-07-28,32800.0,Success,Successful,0.9644
+2023-08,FGmEEx9rbF5e8F,171,161,46,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2023-10-19,,3450.0,Success,,0.9415
+2023-08,FQLy8isl8cBT4q,2083,1693,410,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2023-10-29,,22550.0,Success,,0.8128
+2023-08,FR2kZCaWIQTnDn,5122,4711,1213,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,116280.0,Success,Successful,0.9198
+2023-08,FiVc88jM7AeSta,94,18,7,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,1365.52,,Pending status,0.1915
+2023-08,FjdlljXBLPV7rF,1737,1737,290,sunmoonorganics@gmail.com,,Sunmoon Organics,2023-10-29,,6600.0,Success,,1.0
+2023-08,G4WBGNh0UU0RUp,1858,1858,293,support@stylefeathers.com,,Style Feathers,2023-11-18,2023-11-14,16637.56,Success,,1.0
+2023-08,G6XfSND0uWWQzn,17,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-08,GU1l44CZy5ajTk,4,4,0,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Incorrect status,1.0
+2023-08,GX2Z0I7L07K19g,19,4,4,"info@notsosure.in
+",,NOTSOSURE,,2024-11-14,1000.0,,Pending status,0.2105
+2023-08,GYxvSchZt2syEE,929,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-08,GaFX8ZqIdqtVd0,615,481,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-11-14,0.0,,Pending status,0.7821
+2023-08,Glk1BQ6cvvA8DJ,765,725,167,jhashankgupta@gmail.com,,Lazo,2023-11-30,2023-11-28,13360.0,Success,,0.9477
+2023-08,HDo52FrQhJj1iQ,1192,946,0,vimal@awesomefab.in,,AWESOMEFAB SHOPPING PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.7936
+2023-08,HJHvrI58d1PqIe,642,624,88,japjeet@fflirtygo.com,,Graffiti,2023-10-29,,7040.0,Success,,0.972
+2023-08,HakfWT9UoxpRxO,401,214,74,organikobl@gmail.com,,BEAUTILISHIYA PRODUCTS PRIVATE LIMITED,,2024-11-14,1110.0,,Pending status,0.5337
+2023-08,HqywhSmhfWBnE5,1324,0,0,smitgada15@gmail.com,,ZIVIRA FASHION,,2024-11-14,0.0,,Pending status,0.0
+2023-08,HwvQnDULtFSfih,374,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-08,ICmqJzaoWUpyj6,42,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-11-14,0.0,,Pending status,0.0
+2023-08,IEJDxs6E57EG8a,142,141,23,info@7-10.in,,Sanghvi Erectors Pvt Limited,2023-10-29,,2875.0,Success,,0.993
+2023-08,IJosFOZfgVbMAM,260,260,46,krish@assemblytravel.com ,adarsh@assemblytravel.com,DISMANTLE DIGITAL PRIVATE LIMITED,2023-11-18,2023-11-14,16100.0,Success,,1.0
+2023-08,ITMw84kujaCKhO,484,67,67,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,16750.0,,Pending status,0.1384
+2023-08,IoHIhwtDlPuhkJ,139,115,22,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,2023-10-29,,1760.0,Success,,0.8273
+2023-08,J48RMdC1b73dYg,642,391,49,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-11-14,4900.0,,Pending status,0.609
+2023-08,JNrymGlbgxRl04,120,120,12,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2023-10-29,,879.2199999999999,Success,,1.0
+2023-08,JWOhiDzI1AfUCS,13,13,1,info@sneakare.com,krishnav@sneakare.com,BUILDOUT RETAIL PRIVATE LIMITED,2023-09-14,,100.0,Success,,1.0
+2023-08,Je6WBJUrSvp7Ut,58,53,3,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2023-10-29,,375.0,Success,,0.9138
+2023-08,JkuJOHbtFLHR1p,444,352,26,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-04-24,2024-04-14,2600.0,Success,Manual_Override,0.7928
+2023-08,JndcnDLnC64PHT,11,0,0,"ronak@shopmistry.com
+",nupur@shopmistry.com,Mistry Accessories,,2024-11-14,0.0,,Pending status,0.0
+2023-08,KABgOiTSz8qYnv,129,127,46,smilignerscorp@gmail.com,,Smiligners,2023-10-29,,1380.0,Success,,0.9845
+2023-08,KV9N7Dk5Fe5OSm,227,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-08,Kb86PrdlM26Wf5,223,188,77,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2023-11-30,2023-11-28,5775.0,Success,,0.843
+2023-09,ChdCdGm7TvuVk6,1,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-09,CjaeQlPFXFvaLN,622,620,74,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-10-29,,4136.4,Success,,0.9968
+2023-09,CtHTcKWCa4ZDeF,155,149,22,shwetashivkumar@ymail.com,,whysoblue,2023-10-29,,4400.0,Success,,0.9613
+2023-09,CyFgPUrwzJ5VhG,536,506,58,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-05-31,2024-05-14,4640.0,Success,Successful,0.944
+2023-09,DRA8pvry1C4oTC,1475,1473,157,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-10-29,,19625.0,Success,,0.9986
+2023-09,DUKiYoYvbaUXud,1,0,0,folliculartechnologies@gmail.com,,follicular technologies private limited,,2024-11-14,0.0,,Pending status,0.0
+2023-09,DkYdOAXPbbqFwT,825,825,97,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2023-10-19,,5820.0,Success,,1.0
+2023-09,Dq1Jah4WlPL0qX,468,0,0,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,,2024-11-14,0.0,,Pending status,0.0
+2023-09,EJu3xUe1qpgeB8,334,332,58,gauravkhurana1987@gmail.com,,Aganya Kreations,2023-10-29,,7250.0,Success,,0.994
+2023-09,EyqQxodBBBYpm6,1041,997,283,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-08-08,2024-07-28,22640.0,Success,Successful,0.9577
+2023-09,FGmEEx9rbF5e8F,173,170,52,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2023-10-30,2023-10-29,3600.0,Success,,0.9827
+2023-09,FQLy8isl8cBT4q,3646,2823,815,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,,2024-11-14,44825.0,,Pending status,0.7743
+2023-09,FR2kZCaWIQTnDn,3236,2803,371,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,37680.0,Success,Successful,0.8662
+2023-09,FiVc88jM7AeSta,87,15,10,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,2100.01,,Pending status,0.1724
+2023-09,FjdlljXBLPV7rF,1814,1792,259,sunmoonorganics@gmail.com,,Sunmoon Organics,2023-10-29,,6550.0,Success,,0.9879
+2023-09,G4WBGNh0UU0RUp,1668,1348,375,support@stylefeathers.com,,Style Feathers,2023-10-29,2023-10-15,19539.61,Success,,0.8082
+2023-09,G6XfSND0uWWQzn,16,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-09,GGONsupA74tYXV,340,330,3,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,2023-10-24,,240.0,Success,,0.9706
+2023-09,GU1l44CZy5ajTk,5,5,0,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Incorrect status,1.0
+2023-09,GX2Z0I7L07K19g,27,2,2,"info@notsosure.in
+",,NOTSOSURE,,2024-11-14,500.0,,Pending status,0.0741
+2023-09,GYxvSchZt2syEE,942,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-09,GaFX8ZqIdqtVd0,504,374,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-11-14,0.0,,Pending status,0.7421
+2023-09,Glk1BQ6cvvA8DJ,822,749,147,jhashankgupta@gmail.com,,Lazo,2023-12-01,2023-11-28,11760.0,Success,,0.9112
+2023-09,HJHvrI58d1PqIe,415,414,65,japjeet@fflirtygo.com,,Graffiti,2023-10-29,,5200.0,Success,,0.9976
+2023-09,HakfWT9UoxpRxO,283,161,65,organikobl@gmail.com,,BEAUTILISHIYA PRODUCTS PRIVATE LIMITED,,2024-11-14,810.0,,Pending status,0.5689
+2023-09,HkhexJSLXjxnVH,4,2,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-11-14,0.0,,Pending status,0.5
+2023-09,HqywhSmhfWBnE5,381,0,0,smitgada15@gmail.com,,ZIVIRA FASHION,,2024-11-14,0.0,,Pending status,0.0
+2023-09,HwvQnDULtFSfih,241,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-09,ICmqJzaoWUpyj6,42,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-11-14,0.0,,Pending status,0.0
+2023-09,IEJDxs6E57EG8a,132,132,28,info@7-10.in,,Sanghvi Erectors Pvt Limited,2023-11-18,2023-11-14,3500.0,Success,,1.0
+2023-09,IJosFOZfgVbMAM,232,232,33,krish@assemblytravel.com ,adarsh@assemblytravel.com,DISMANTLE DIGITAL PRIVATE LIMITED,2023-11-18,2023-11-14,10850.0,Success,,1.0
+2023-09,IRNe12O1nqpPQL,291,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-09,ITMw84kujaCKhO,422,48,48,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,12000.0,,Pending status,0.1137
+2023-09,IoHIhwtDlPuhkJ,125,77,11,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-11-14,800.0,,Pending status,0.616
+2023-09,J48RMdC1b73dYg,679,421,45,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-11-14,4500.0,,Pending status,0.62
+2023-09,JNrymGlbgxRl04,66,66,4,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2023-10-29,,202.72000000000003,Success,,1.0
+2023-09,JWOhiDzI1AfUCS,3,2,0,info@sneakare.com,krishnav@sneakare.com,BUILDOUT RETAIL PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.6667
+2023-09,Je6WBJUrSvp7Ut,96,70,14,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,,2024-11-14,1750.0,,Pending status,0.7292
+2023-09,JkuJOHbtFLHR1p,305,205,15,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-04-24,2024-04-14,1500.0,Success,Manual_Override,0.6721
+2023-09,KABgOiTSz8qYnv,44,43,16,smilignerscorp@gmail.com,,Smiligners,2023-10-29,,480.0,Success,,0.9773
+2023-09,KV9N7Dk5Fe5OSm,245,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-09,Kb86PrdlM26Wf5,168,154,64,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2023-12-30,2023-12-28,4800.0,Success,,0.9167
+2023-09,KcOxexsd6DtRgb,5,0,0,natureplants07@gmail.com,,Nature Plants,,2024-11-14,0.0,,Pending status,0.0
+2023-10,AgY9h3XkrOi3Iz,693,557,13,ankit.jain@wonderchef.in ,ashwini.rane@wonderchef.in,TREASURE RETAIL PRIVATE LIMITED,2023-12-03,2023-11-28,1040.0,Success,,0.8038
+2023-10,CjaeQlPFXFvaLN,1378,1374,224,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-11-14,,12350.38,Success,,0.9971
+2023-10,CtHTcKWCa4ZDeF,95,91,7,shwetashivkumar@ymail.com,,whysoblue,2023-11-14,,1400.0,Success,,0.9579
+2023-10,CyFgPUrwzJ5VhG,684,649,82,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2023-12-03,2023-11-28,6560.0,Success,,0.9488
+2023-10,DRA8pvry1C4oTC,1637,1636,141,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-11-14,,17625.0,Success,,0.9994
+2023-10,DkYdOAXPbbqFwT,660,660,94,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2023-11-14,,5640.0,Success,,1.0
+2023-10,Dq1Jah4WlPL0qX,380,0,0,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,,2024-11-14,0.0,,Pending status,0.0
+2023-10,Dq7VZ3fMp7qQQ7,187,184,40,sugandhini@thehadenaturals.com,,The Hade,2023-11-14,,2043.71,Success,,0.984
+2023-10,E2NWmnnFI68dlm,68,68,9,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-02-01,2024-01-28,3150.0,Success,,1.0
+2023-10,EJu3xUe1qpgeB8,408,408,73,gauravkhurana1987@gmail.com,,Aganya Kreations,2023-11-14,,9125.0,Success,,1.0
+2023-10,EyqQxodBBBYpm6,1240,1201,396,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-07-23,2024-07-21,31680.0,Success,Successful,0.9685
+2023-10,FGmEEx9rbF5e8F,145,145,35,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2023-11-23,2023-11-14,1875.0,Success,,1.0
+2023-10,FQLy8isl8cBT4q,3326,2604,872,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,,2024-11-14,47960.0,,Pending status,0.7829
+2023-10,FiVc88jM7AeSta,122,14,9,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,2096.1800000000003,,Pending status,0.1148
+2023-10,G4WBGNh0UU0RUp,1958,1957,390,support@stylefeathers.com,,Style Feathers,2023-11-18,2023-11-14,20156.7,Success,,0.9995
+2023-10,G6XfSND0uWWQzn,15,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-10,GGONsupA74tYXV,175,0,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-10,GU1l44CZy5ajTk,2,2,0,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Incorrect status,1.0
+2023-10,GX2Z0I7L07K19g,16,0,0,"info@notsosure.in
+",,NOTSOSURE,,2024-11-14,0.0,,Pending status,0.0
+2023-10,GYxvSchZt2syEE,824,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-10,GaFX8ZqIdqtVd0,581,447,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-11-14,0.0,,Pending status,0.7694
+2023-10,Glk1BQ6cvvA8DJ,845,763,209,jhashankgupta@gmail.com,,Lazo,2023-11-30,2023-11-28,16720.0,Success,,0.903
+2023-10,HD1eg1yHtJmz5O,240,239,36,ibcorporation@live.com,,I B CORPORATION,2024-01-07,2023-12-28,3600.0,Success,,0.9958
+2023-10,HJHvrI58d1PqIe,1308,1256,226,japjeet@fflirtygo.com,,Graffiti,2023-11-25,2023-11-14,18080.0,Success,,0.9602
+2023-10,HakfWT9UoxpRxO,189,124,57,organikobl@gmail.com,,BEAUTILISHIYA PRODUCTS PRIVATE LIMITED,,2024-11-14,420.0,,Pending status,0.6561
+2023-10,HkhexJSLXjxnVH,10,9,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-11-14,0.0,,Incorrect status,0.9
+2023-10,HwvQnDULtFSfih,213,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-10,ICmqJzaoWUpyj6,49,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-11-14,0.0,,Pending status,0.0
+2023-10,IEJDxs6E57EG8a,130,130,28,info@7-10.in,,Sanghvi Erectors Pvt Limited,2023-11-25,2023-11-14,3500.0,Success,,1.0
+2023-10,IJosFOZfgVbMAM,262,260,47,krish@assemblytravel.com ,adarsh@assemblytravel.com,DISMANTLE DIGITAL PRIVATE LIMITED,2024-02-29,2024-02-28,12950.0,Success,,0.9924
+2023-10,INmSeldc63QJ9j,521,126,64,kayaeretailpvtltd@gmail.com,,KAYAERETAIL,,2024-11-14,6400.0,,Pending status,0.2418
+2023-10,IRNe12O1nqpPQL,387,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-10,ITMw84kujaCKhO,372,41,41,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,10250.0,,Pending status,0.1102
+2023-10,J48RMdC1b73dYg,824,489,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.5934
+2023-10,JNrymGlbgxRl04,56,56,4,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2023-11-14,,208.96,Success,,1.0
+2023-10,Je6WBJUrSvp7Ut,110,102,16,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2023-11-14,,2000.0,Success,,0.9273
+2023-10,JkuJOHbtFLHR1p,186,95,7,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-04-24,2024-04-14,700.0,Success,Manual_Override,0.5108
+2023-10,KABgOiTSz8qYnv,24,24,7,smilignerscorp@gmail.com,,Smiligners,2023-11-14,,210.0,Success,,1.0
+2023-10,KSNr9V17ZQl5YV,5,5,2,admin@clanshoes.com,,C7 COMMERCE PRIVATE LIMITED,2023-11-17,2023-11-14,700.0,Success,,1.0
+2023-10,KV9N7Dk5Fe5OSm,212,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-10,Kb86PrdlM26Wf5,286,259,127,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2023-12-30,2023-12-28,9525.0,Success,,0.9056
+2023-10,KcOxexsd6DtRgb,6,2,1,natureplants07@gmail.com,,Nature Plants,,2024-11-14,0.0,,Pending status,0.3333
+2023-11,AgY9h3XkrOi3Iz,1505,1291,134,ankit.jain@wonderchef.in ,ashwini.rane@wonderchef.in,TREASURE RETAIL PRIVATE LIMITED,2023-12-14,,10720.0,Success,,0.8578
+2023-11,CjaeQlPFXFvaLN,1173,1172,183,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2023-12-14,,10563.1,Success,,0.9991
+2023-11,CtHTcKWCa4ZDeF,54,49,11,shwetashivkumar@ymail.com,,whysoblue,2023-12-14,,2200.0,Success,,0.9074
+2023-11,CyFgPUrwzJ5VhG,577,559,66,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2023-12-14,,5280.0,Success,,0.9688
+2023-11,DRA8pvry1C4oTC,1358,1353,137,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2023-12-14,,17125.0,Success,,0.9963
+2023-11,DkYdOAXPbbqFwT,441,439,65,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2023-12-14,,3900.0,Success,,0.9955
+2023-11,Dq1Jah4WlPL0qX,1,0,0,karan.jain@goodbrandsindia.com,,Good brands for a healthy life Pvt. Ltd.,,2024-11-14,0.0,,Pending status,0.0
+2023-11,Dq7VZ3fMp7qQQ7,422,418,95,sugandhini@thehadenaturals.com,,The Hade,2023-12-14,,6299.58,Success,,0.9905
+2023-11,E2NWmnnFI68dlm,75,75,16,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-02-01,2024-01-28,5600.0,Success,,1.0
+2023-11,EJu3xUe1qpgeB8,358,356,67,gauravkhurana1987@gmail.com,,Aganya Kreations,2023-12-14,,8375.0,Success,,0.9944
+2023-11,EyqQxodBBBYpm6,1611,1567,502,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-07-22,2024-07-21,40160.0,Success,Successful,0.9727
+2023-11,FGmEEx9rbF5e8F,105,105,16,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2023-12-17,2023-12-14,1050.0,Success,,1.0
+2023-11,FQLy8isl8cBT4q,3451,2725,842,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,,2024-11-14,46310.0,,Pending status,0.7896
+2023-11,FiVc88jM7AeSta,106,8,6,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,1500.0,,Pending status,0.0755
+2023-11,G4WBGNh0UU0RUp,766,624,138,support@stylefeathers.com,,Style Feathers,2023-12-14,,7054.510000000001,Success,,0.8146
+2023-11,G6XfSND0uWWQzn,13,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-11,GGONsupA74tYXV,154,0,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-11,GU1l44CZy5ajTk,5,4,0,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Incorrect status,0.8
+2023-11,GX2Z0I7L07K19g,13,0,0,"info@notsosure.in
+",,NOTSOSURE,,2024-11-14,0.0,,Pending status,0.0
+2023-11,GYxvSchZt2syEE,511,1,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.002
+2023-11,GaFX8ZqIdqtVd0,449,333,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-11-14,0.0,,Pending status,0.7416
+2023-11,Glk1BQ6cvvA8DJ,708,660,157,jhashankgupta@gmail.com,,Lazo,2023-12-14,,12560.0,Success,,0.9322
+2023-11,HD1eg1yHtJmz5O,324,323,51,ibcorporation@live.com,,I B CORPORATION,2024-01-07,2023-12-28,5100.0,Success,,0.9969
+2023-11,HJHvrI58d1PqIe,1826,1721,681,japjeet@fflirtygo.com,,Graffiti,2023-12-14,,54480.0,Success,,0.9425
+2023-11,HakfWT9UoxpRxO,162,102,54,organikobl@gmail.com,,BEAUTILISHIYA PRODUCTS PRIVATE LIMITED,,2024-11-14,270.0,,Pending status,0.6296
+2023-11,HkhexJSLXjxnVH,12,5,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-11-14,0.0,,Pending status,0.4167
+2023-11,HwvQnDULtFSfih,211,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-11,ICmqJzaoWUpyj6,27,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-11-14,0.0,,Pending status,0.0
+2023-11,IEJDxs6E57EG8a,154,154,29,info@7-10.in,,Sanghvi Erectors Pvt Limited,2023-12-21,2023-12-14,3625.0,Success,,1.0
+2023-11,IJosFOZfgVbMAM,515,509,70,krish@assemblytravel.com ,adarsh@assemblytravel.com,DISMANTLE DIGITAL PRIVATE LIMITED,2024-02-29,2024-02-28,23100.0,Success,,0.9883
+2023-11,INmSeldc63QJ9j,469,70,32,kayaeretailpvtltd@gmail.com,,KAYAERETAIL,,2024-11-14,3200.0,,Pending status,0.1493
+2023-11,IRNe12O1nqpPQL,426,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-11,ITMw84kujaCKhO,619,87,87,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,21750.0,,Pending status,0.1405
+2023-11,IoHIhwtDlPuhkJ,50,0,0,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-11-14,0.0,,Pending status,0.0
+2023-11,J48RMdC1b73dYg,734,418,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.5695
+2023-11,JNrymGlbgxRl04,42,42,4,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2023-12-14,,194.35,Success,,1.0
+2023-11,Je6WBJUrSvp7Ut,95,92,12,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2023-12-14,,1500.0,Success,,0.9684
+2023-11,JkuJOHbtFLHR1p,406,206,16,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-04-24,2024-04-14,1600.0,Success,Manual_Override,0.5074
+2023-11,KABgOiTSz8qYnv,94,94,33,smilignerscorp@gmail.com,,Smiligners,2023-12-14,,270.0,Success,,1.0
+2023-11,KSNr9V17ZQl5YV,309,305,5,admin@clanshoes.com,,C7 COMMERCE PRIVATE LIMITED,2023-12-14,,1400.0,Success,,0.9871
+2023-11,KV9N7Dk5Fe5OSm,326,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-11,Kb86PrdlM26Wf5,216,216,94,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2023-12-30,2023-12-28,7050.0,Success,,1.0
+2023-11,KcOxexsd6DtRgb,14,10,8,natureplants07@gmail.com,,Nature Plants,,2024-11-14,60.0,,Pending status,0.7143
+2023-12,AgY9h3XkrOi3Iz,1686,1345,0,ankit.jain@wonderchef.in ,ashwini.rane@wonderchef.in,TREASURE RETAIL PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.7977
+2023-12,CjaeQlPFXFvaLN,1249,1249,196,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-01-14,,10959.48,Success,,1.0
+2023-12,CtHTcKWCa4ZDeF,49,45,5,shwetashivkumar@ymail.com,,whysoblue,2024-01-14,,1000.0,Success,,0.9184
+2023-12,CyFgPUrwzJ5VhG,705,640,101,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-05-30,2024-05-14,8080.0,Success,Successful,0.9078
+2023-12,DRA8pvry1C4oTC,1047,1044,82,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-01-14,,10250.0,Success,,0.9971
+2023-12,DUKiYoYvbaUXud,8,8,2,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-01-31,2024-01-28,150.0,Success,,1.0
+2023-12,DkYdOAXPbbqFwT,516,516,75,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-01-14,,4500.0,Success,,1.0
+2023-12,Dq7VZ3fMp7qQQ7,1132,1119,207,sugandhini@thehadenaturals.com,,The Hade,2024-01-14,,14322.83,Success,,0.9885
+2023-12,E2NWmnnFI68dlm,68,67,3,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-02-01,2024-01-28,1050.0,Success,,0.9853
+2023-12,EJu3xUe1qpgeB8,226,194,51,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-01-14,,6375.0,Success,,0.8584
+2023-12,EyqQxodBBBYpm6,1379,1348,429,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-07-11,2024-06-28,34320.0,Success,Successful,0.9775
+2023-12,FGmEEx9rbF5e8F,86,86,23,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-01-29,2024-01-28,1350.0,Success,,1.0
+2023-12,FQLy8isl8cBT4q,2960,2400,550,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-02-17,2024-02-14,30250.0,Success,,0.8108
+2023-12,FR2kZCaWIQTnDn,222,220,63,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,7560.0,Success,Successful,0.991
+2023-12,FiVc88jM7AeSta,98,3,3,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-11-14,750.0,,Pending status,0.0306
+2023-12,G4WBGNh0UU0RUp,1041,853,177,support@stylefeathers.com,,Style Feathers,2024-01-14,,9075.27,Success,,0.8194
+2023-12,G6XfSND0uWWQzn,9,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-11-14,0.0,,Pending status,0.0
+2023-12,GU1l44CZy5ajTk,3,0,0,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-12,GX2Z0I7L07K19g,22,0,0,"info@notsosure.in
+",,NOTSOSURE,,2024-11-14,0.0,,Pending status,0.0
+2023-12,GYxvSchZt2syEE,586,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-12,GaFX8ZqIdqtVd0,246,206,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-11-14,0.0,,Incorrect status,0.8374
+2023-12,Glk1BQ6cvvA8DJ,816,770,220,jhashankgupta@gmail.com,,Lazo,2024-01-14,,17600.0,Success,,0.9436
+2023-12,HD1eg1yHtJmz5O,300,296,48,ibcorporation@live.com,,I B CORPORATION,2024-01-14,,4800.0,Success,,0.9867
+2023-12,HJHvrI58d1PqIe,4773,4196,1878,japjeet@fflirtygo.com,,Graffiti,2024-01-14,,150240.0,Success,,0.8791
+2023-12,HkhexJSLXjxnVH,12,9,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-11-14,0.0,,Pending status,0.75
+2023-12,HwvQnDULtFSfih,149,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-12,ICmqJzaoWUpyj6,40,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-11-14,0.0,,Pending status,0.0
+2023-12,IEJDxs6E57EG8a,124,124,24,info@7-10.in,,Sanghvi Erectors Pvt Limited,2024-02-14,2024-01-28,3000.0,Success,,1.0
+2023-12,IJosFOZfgVbMAM,189,189,26,krish@assemblytravel.com ,adarsh@assemblytravel.com,DISMANTLE DIGITAL PRIVATE LIMITED,2024-02-29,2024-02-28,7700.0,Success,,1.0
+2023-12,INmSeldc63QJ9j,362,35,3,kayaeretailpvtltd@gmail.com,,KAYAERETAIL,,2024-11-14,300.0,,Pending status,0.0967
+2023-12,IRNe12O1nqpPQL,691,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.0
+2023-12,ITMw84kujaCKhO,583,39,39,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-11-14,9750.0,,Pending status,0.0669
+2023-12,IoHIhwtDlPuhkJ,202,0,0,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-11-14,0.0,,Pending status,0.0
+2023-12,J48RMdC1b73dYg,676,409,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-11-14,0.0,,Pending status,0.605
+2023-12,JNrymGlbgxRl04,84,84,10,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-01-14,,573.8100000000001,Success,,1.0
+2023-12,Je6WBJUrSvp7Ut,81,77,11,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2024-01-17,2024-01-14,1375.0,Success,,0.9506
+2023-12,JkuJOHbtFLHR1p,133,96,5,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-04-24,2024-04-14,500.0,Success,Manual_Override,0.7218
+2023-12,KABgOiTSz8qYnv,146,146,48,smilignerscorp@gmail.com,,Smiligners,2024-01-14,,120.0,Success,,1.0
+2023-12,KSNr9V17ZQl5YV,149,147,3,admin@clanshoes.com,,C7 COMMERCE PRIVATE LIMITED,2024-01-14,,1050.0,Success,,0.9866
+2023-12,KV9N7Dk5Fe5OSm,381,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2023-12,Kb86PrdlM26Wf5,275,257,104,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2024-01-21,2024-01-14,7800.0,Success,,0.9345
+2023-12,KcOxexsd6DtRgb,35,33,22,natureplants07@gmail.com,,Nature Plants,2024-01-14,,180.0,Success,,0.9429
+2024-01,AgY9h3XkrOi3Iz,1517,1086,0,ankit.jain@wonderchef.in ,ashwini.rane@wonderchef.in,TREASURE RETAIL PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.7159
+2024-01,CjaeQlPFXFvaLN,698,698,93,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-02-14,,5030.580000000002,Success,,1.0
+2024-01,CtHTcKWCa4ZDeF,60,59,4,shwetashivkumar@ymail.com,,whysoblue,2024-02-14,,800.0,Success,,0.9833
+2024-01,CyFgPUrwzJ5VhG,862,838,119,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-02-14,,9520.0,Success,,0.9722
+2024-01,DRA8pvry1C4oTC,1357,1354,124,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-02-14,,15500.0,Success,,0.9978
+2024-01,DUKiYoYvbaUXud,1230,1212,250,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-02-14,,18750.0,Success,,0.9854
+2024-01,DkYdOAXPbbqFwT,451,445,57,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-02-14,,3420.0,Success,,0.9867
+2024-01,Dq7VZ3fMp7qQQ7,1078,1069,182,sugandhini@thehadenaturals.com,,The Hade,2024-02-14,,12278.82,Success,,0.9917
+2024-01,E2NWmnnFI68dlm,85,85,8,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-04-23,2024-04-14,2800.0,Success,Successful,1.0
+2024-01,EJIXcnbMpszHqe,941,941,137,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-03-28,,17325.0,Success,Successful,1.0
+2024-01,EJu3xUe1qpgeB8,193,193,29,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-02-15,2024-02-14,3625.0,Success,,1.0
+2024-01,EyqQxodBBBYpm6,863,835,219,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-07-11,2024-06-28,17520.0,Success,Successful,0.9676
+2024-01,FGmEEx9rbF5e8F,198,198,37,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-02-16,2024-02-14,1650.0,Success,,1.0
+2024-01,FQLy8isl8cBT4q,1509,1305,287,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-02-20,2024-02-14,15785.0,Success,,0.8648
+2024-01,FR2kZCaWIQTnDn,1325,1316,96,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,11520.0,Success,Successful,0.9932
+2024-01,FiVc88jM7AeSta,134,6,6,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,1500.0,,Pending status,0.0448
+2024-01,G4WBGNh0UU0RUp,2097,1778,343,support@stylefeathers.com,,Style Feathers,2024-02-14,,17318.190000000002,Success,,0.8479
+2024-01,G6XfSND0uWWQzn,9,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-10-28,0.0,,Pending status,0.0
+2024-01,GGONsupA74tYXV,6,0,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-01,GU1l44CZy5ajTk,2,0,0,info@quickpharmacy.in,,BOXOFHEALTH INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-01,GX2Z0I7L07K19g,24,0,0,"info@notsosure.in
+",,NOTSOSURE,,2024-10-28,0.0,,Pending status,0.0
+2024-01,GYxvSchZt2syEE,938,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-01,GaFX8ZqIdqtVd0,35,28,0,wearhousewolves@gmail.com,,Wearhouse wolves,,2024-10-28,0.0,,Incorrect status,0.8
+2024-01,Glk1BQ6cvvA8DJ,763,744,207,jhashankgupta@gmail.com,,Lazo,2024-02-14,,16560.0,Success,,0.9751
+2024-01,HD1eg1yHtJmz5O,180,178,16,ibcorporation@live.com,,I B CORPORATION,2024-02-16,2024-02-14,1600.0,Success,,0.9889
+2024-01,HJHvrI58d1PqIe,2370,1691,597,japjeet@fflirtygo.com,,Graffiti,,2024-10-28,47760.0,,Pending status,0.7135
+2024-01,HkhexJSLXjxnVH,17,8,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Pending status,0.4706
+2024-01,HwvQnDULtFSfih,254,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-01,ICmqJzaoWUpyj6,34,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-01,IEJDxs6E57EG8a,146,124,22,info@7-10.in,,Sanghvi Erectors Pvt Limited,2024-02-24,2024-02-14,2750.0,Success,,0.8493
+2024-01,IJosFOZfgVbMAM,50,49,8,krish@assemblytravel.com ,adarsh@assemblytravel.com,DISMANTLE DIGITAL PRIVATE LIMITED,2024-03-07,2024-02-28,2450.0,Success,Successful,0.98
+2024-01,INmSeldc63QJ9j,390,390,55,kayaeretailpvtltd@gmail.com,,KAYAERETAIL,2024-09-15,2024-08-28,5500.0,Success,Successful,1.0
+2024-01,IRNe12O1nqpPQL,500,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-01,ITMw84kujaCKhO,445,0,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.0
+2024-01,IoHIhwtDlPuhkJ,107,1,0,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-10-28,0.0,,Pending status,0.0093
+2024-01,J48RMdC1b73dYg,631,429,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.6799
+2024-01,JNrymGlbgxRl04,303,303,24,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-02-14,,1302.33,Success,,1.0
+2024-01,Je6WBJUrSvp7Ut,64,60,9,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2024-02-14,,1125.0,Success,,0.9375
+2024-01,JkuJOHbtFLHR1p,125,0,0,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,,2024-10-28,0.0,,Pending status,0.0
+2024-01,KABgOiTSz8qYnv,1,1,0,smilignerscorp@gmail.com,,Smiligners,,2024-10-28,0.0,,Incorrect status,1.0
+2024-01,KSNr9V17ZQl5YV,189,186,0,admin@clanshoes.com,,C7 COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Incorrect status,0.9841
+2024-01,KV9N7Dk5Fe5OSm,200,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-01,Kb86PrdlM26Wf5,369,340,156,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2024-03-01,2024-02-28,11700.0,Success,Successful,0.9214
+2024-01,NEEDBMIuj4musE,77,65,13,"team@poshpantsclub.com, jhashankgupta@gmail.com",,Posh Pants Club,2024-02-14,,1300.0,Success,,0.8442
+2024-02,4af5pL6Gz4AElE,3,0,0,kausshal@teabox.com,diwaker@teabox.com,Teabox,,2024-10-28,0.0,,Pending status,0.0
+2024-02,AgY9h3XkrOi3Iz,1715,1068,1,ankit.jain@wonderchef.in ,ashwini.rane@wonderchef.in,TREASURE RETAIL PRIVATE LIMITED,,2024-10-28,80.0,,Pending status,0.6227
+2024-02,ChdCdGm7TvuVk6,12,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-02,CjaeQlPFXFvaLN,1150,1150,174,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-03-14,,10235.61,Success,Successful,1.0
+2024-02,CtHTcKWCa4ZDeF,10,8,0,shwetashivkumar@ymail.com,,whysoblue,,2024-10-28,0.0,,Incorrect status,0.8
+2024-02,CyFgPUrwzJ5VhG,649,614,77,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-03-14,,6160.0,Success,Successful,0.9461
+2024-02,DRA8pvry1C4oTC,1565,1563,157,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-03-14,,19625.0,Success,Successful,0.9987
+2024-02,DUKiYoYvbaUXud,3483,3404,756,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-03-14,,56700.0,Success,Successful,0.9773
+2024-02,DkYdOAXPbbqFwT,985,984,194,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-03-14,,11640.0,Success,Successful,0.999
+2024-02,Dq7VZ3fMp7qQQ7,1343,1340,194,sugandhini@thehadenaturals.com,,The Hade,2024-03-14,,13270.940000000002,Success,Successful,0.9978
+2024-02,E2NWmnnFI68dlm,48,48,2,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,2024-04-23,2024-04-14,700.0,Success,Successful,1.0
+2024-02,EJIXcnbMpszHqe,2989,2959,456,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-03-28,,63800.0,Success,Successful,0.99
+2024-02,EJu3xUe1qpgeB8,176,164,30,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-05-19,2024-05-14,3750.0,Success,Successful,0.9318
+2024-02,EyqQxodBBBYpm6,659,649,135,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-07-11,2024-06-28,10800.0,Success,Successful,0.9848
+2024-02,FGmEEx9rbF5e8F,168,168,30,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-03-15,2024-03-14,1425.0,Success,Successful,1.0
+2024-02,FQLy8isl8cBT4q,1657,1438,266,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-03-14,,14630.0,Success,Successful,0.8678
+2024-02,FiVc88jM7AeSta,129,5,5,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,1250.0,,Pending status,0.0388
+2024-02,G4WBGNh0UU0RUp,1592,1347,281,support@stylefeathers.com,,Style Feathers,2024-03-14,,14951.330000000002,Success,Successful,0.8461
+2024-02,G6XfSND0uWWQzn,6,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-10-28,0.0,,Pending status,0.0
+2024-02,GGONsupA74tYXV,10,1,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.1
+2024-02,GYxvSchZt2syEE,938,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-02,Glk1BQ6cvvA8DJ,859,844,225,jhashankgupta@gmail.com,,Lazo,2024-03-14,,18000.0,Success,Successful,0.9825
+2024-02,HD1eg1yHtJmz5O,222,220,23,ibcorporation@live.com,,I B CORPORATION,2024-04-19,2024-04-14,2300.0,Success,Successful,0.991
+2024-02,HJHvrI58d1PqIe,769,656,86,japjeet@fflirtygo.com,,Graffiti,2024-03-14,,6880.0,Success,Successful,0.8531
+2024-02,HakfWT9UoxpRxO,5,2,1,organikobl@gmail.com,,BEAUTILISHIYA PRODUCTS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.4
+2024-02,HkhexJSLXjxnVH,8,4,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Pending status,0.5
+2024-02,HwvQnDULtFSfih,185,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-02,ICmqJzaoWUpyj6,30,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-02,IEJDxs6E57EG8a,116,114,14,info@7-10.in,,Sanghvi Erectors Pvt Limited,2024-04-08,2024-03-14,1750.0,Success,Successful,0.9828
+2024-02,INmSeldc63QJ9j,311,311,49,kayaeretailpvtltd@gmail.com,,KAYAERETAIL,2024-09-11,2024-08-28,4900.0,Success,Successful,1.0
+2024-02,IRNe12O1nqpPQL,1087,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-02,ITMw84kujaCKhO,482,26,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.0539
+2024-02,IoHIhwtDlPuhkJ,184,0,0,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-10-28,0.0,,Pending status,0.0
+2024-02,J48RMdC1b73dYg,449,278,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.6192
+2024-02,JNrymGlbgxRl04,533,533,48,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-03-14,,2856.71,Success,Successful,1.0
+2024-02,Je6WBJUrSvp7Ut,66,55,12,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2024-03-14,,1500.0,Success,Successful,0.8333
+2024-02,JkuJOHbtFLHR1p,497,0,0,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,,2024-10-28,0.0,,Pending status,0.0
+2024-02,KSNr9V17ZQl5YV,35,35,1,admin@clanshoes.com,,C7 COMMERCE PRIVATE LIMITED,2024-03-14,,350.0,Success,Successful,1.0
+2024-02,KV9N7Dk5Fe5OSm,52,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-02,Kb86PrdlM26Wf5,322,287,124,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2024-03-28,2024-03-14,9300.0,Success,Successful,0.8913
+2024-02,NEEDBMIuj4musE,113,110,19,"team@poshpantsclub.com, jhashankgupta@gmail.com",,Posh Pants Club,2024-03-14,,1900.0,Success,Successful,0.9735
+2024-03,AgY9h3XkrOi3Iz,415,205,0,ankit.jain@wonderchef.in ,ashwini.rane@wonderchef.in,TREASURE RETAIL PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.494
+2024-03,ChdCdGm7TvuVk6,3,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-03,CjaeQlPFXFvaLN,1225,1225,162,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-04-14,,9265.36,Success,Successful,1.0
+2024-03,CtHTcKWCa4ZDeF,10,8,2,shwetashivkumar@ymail.com,,whysoblue,2024-04-14,,400.0,Success,Successful,0.8
+2024-03,CyFgPUrwzJ5VhG,772,737,105,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-04-14,,8400.0,Success,Successful,0.9547
+2024-03,DRA8pvry1C4oTC,1141,1141,74,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-04-14,,9250.0,Success,Successful,1.0
+2024-03,DUKiYoYvbaUXud,2668,2536,435,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-04-14,,17475.0,Success,Successful,0.9505
+2024-03,DkYdOAXPbbqFwT,546,542,70,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-04-14,,4200.0,Success,Successful,0.9927
+2024-03,Dq7VZ3fMp7qQQ7,2071,2034,390,sugandhini@thehadenaturals.com,,The Hade,2024-04-14,,21546.300000000003,Success,Successful,0.9821
+2024-03,E2NWmnnFI68dlm,2,2,0,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,,2024-10-28,0.0,,Incorrect status,1.0
+2024-03,EJIXcnbMpszHqe,870,870,157,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-04-14,,30525.0,Success,Successful,1.0
+2024-03,EJu3xUe1qpgeB8,157,147,27,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-05-19,2024-05-14,3375.0,Success,Successful,0.9363
+2024-03,EyqQxodBBBYpm6,548,541,122,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-07-11,2024-06-28,9760.0,Success,Successful,0.9872
+2024-03,FGmEEx9rbF5e8F,138,128,17,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-04-17,2024-04-14,675.0,Success,Successful,0.9275
+2024-03,FQLy8isl8cBT4q,1103,966,188,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-04-14,,10340.0,Success,Successful,0.8758
+2024-03,FiVc88jM7AeSta,119,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,0.0,,Pending status,0.0
+2024-03,G4WBGNh0UU0RUp,531,444,79,support@stylefeathers.com,,Style Feathers,2024-04-14,,4080.62,Success,Successful,0.8362
+2024-03,G6XfSND0uWWQzn,4,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-10-28,0.0,,Pending status,0.0
+2024-03,GGONsupA74tYXV,8,2,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.25
+2024-03,GYxvSchZt2syEE,1279,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-03,Glk1BQ6cvvA8DJ,1167,1142,247,jhashankgupta@gmail.com,,Lazo,2024-04-14,,19760.0,Success,Successful,0.9786
+2024-03,HD1eg1yHtJmz5O,216,215,25,ibcorporation@live.com,,I B CORPORATION,2024-04-19,2024-04-14,2500.0,Success,Successful,0.9954
+2024-03,HJHvrI58d1PqIe,2032,1927,176,japjeet@fflirtygo.com,,Graffiti,2024-04-14,,14080.0,Success,Successful,0.9483
+2024-03,HjDCaAKmzwvZVr,295,95,23,khatushyamcreations@gmail.com,,Khatushyam Creations,,2024-10-28,2875.0,,Pending status,0.322
+2024-03,HkhexJSLXjxnVH,3,3,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Incorrect status,1.0
+2024-03,HwvQnDULtFSfih,94,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-03,ICmqJzaoWUpyj6,30,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-03,IEJDxs6E57EG8a,119,117,13,info@7-10.in,,Sanghvi Erectors Pvt Limited,2024-04-14,,1625.0,Success,Successful,0.9832
+2024-03,INmSeldc63QJ9j,263,263,50,kayaeretailpvtltd@gmail.com,,KAYAERETAIL,2024-09-10,2024-08-28,5000.0,Success,Successful,1.0
+2024-03,IRNe12O1nqpPQL,939,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-03,ITMw84kujaCKhO,364,53,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.1456
+2024-03,IoHIhwtDlPuhkJ,9,0,0,sixbyelevenstudio@gmail.com,,Divyesh Doshi HUF,,2024-10-28,0.0,,Pending status,0.0
+2024-03,J48RMdC1b73dYg,1069,628,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.5875
+2024-03,JNrymGlbgxRl04,262,262,15,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-04-14,,885.5600000000001,Success,Successful,1.0
+2024-03,Je6WBJUrSvp7Ut,46,25,6,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,,2024-10-28,750.0,,Pending status,0.5435
+2024-03,JkuJOHbtFLHR1p,697,0,0,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,,2024-10-28,0.0,,Pending status,0.0
+2024-03,KV9N7Dk5Fe5OSm,48,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-03,Kb86PrdlM26Wf5,141,126,50,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2024-05-07,2024-04-14,3750.0,Success,Successful,0.8936
+2024-03,NEEDBMIuj4musE,146,143,25,"team@poshpantsclub.com, jhashankgupta@gmail.com",,Posh Pants Club,2024-04-14,,2500.0,Success,Successful,0.9795
+2024-04,ChdCdGm7TvuVk6,2,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-04,CjaeQlPFXFvaLN,862,862,127,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-05-14,,7332.72,Success,Successful,1.0
+2024-04,CtHTcKWCa4ZDeF,20,16,3,shwetashivkumar@ymail.com,,whysoblue,2024-05-15,2024-05-14,600.0,Success,Successful,0.8
+2024-04,CyFgPUrwzJ5VhG,546,540,111,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-05-22,2024-05-14,8880.0,Success,Successful,0.989
+2024-04,DRA8pvry1C4oTC,1163,1163,91,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-05-14,,11375.0,Success,Successful,1.0
+2024-04,DUKiYoYvbaUXud,3851,3337,639,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-05-14,,11100.0,Success,Successful,0.8665
+2024-04,DkYdOAXPbbqFwT,530,530,64,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-05-14,,3840.0,Success,Successful,1.0
+2024-04,Dq7VZ3fMp7qQQ7,1442,1423,281,sugandhini@thehadenaturals.com,,The Hade,2024-05-14,,15600.460000000001,Success,Successful,0.9868
+2024-04,EJIXcnbMpszHqe,1025,1022,135,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-05-14,,22275.0,Success,Successful,0.9971
+2024-04,EJu3xUe1qpgeB8,127,127,30,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-05-19,2024-05-14,3750.0,Success,Successful,1.0
+2024-04,EyqQxodBBBYpm6,1254,1105,262,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-05-14,,20960.0,Success,Successful,0.8812
+2024-04,FGmEEx9rbF5e8F,243,243,50,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-05-15,2024-05-14,2250.0,Success,Successful,1.0
+2024-04,FQLy8isl8cBT4q,695,620,139,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-05-14,,7645.0,Success,Successful,0.8921
+2024-04,FR2kZCaWIQTnDn,1045,929,0,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,,2024-10-28,0.0,,Incorrect status,0.889
+2024-04,FiVc88jM7AeSta,70,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,0.0,,Pending status,0.0
+2024-04,G4WBGNh0UU0RUp,425,381,57,support@stylefeathers.com,,Style Feathers,2024-05-14,,3149.8900000000003,Success,Successful,0.8965
+2024-04,G6XfSND0uWWQzn,6,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-10-28,0.0,,Pending status,0.0
+2024-04,GGONsupA74tYXV,8,2,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.25
+2024-04,GYxvSchZt2syEE,1064,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-04,Glk1BQ6cvvA8DJ,1427,1377,335,jhashankgupta@gmail.com,,Lazo,2024-05-14,,26800.0,Success,Successful,0.965
+2024-04,HD1eg1yHtJmz5O,134,133,18,ibcorporation@live.com,,I B CORPORATION,2024-05-16,2024-05-14,1800.0,Success,Successful,0.9925
+2024-04,HJHvrI58d1PqIe,360,343,30,japjeet@fflirtygo.com,,Graffiti,2024-05-14,,2400.0,Success,Successful,0.9528
+2024-04,HjDCaAKmzwvZVr,564,546,116,khatushyamcreations@gmail.com,,Khatushyam Creations,2024-05-14,,14500.0,Success,Successful,0.9681
+2024-04,HkhexJSLXjxnVH,8,7,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Incorrect status,0.875
+2024-04,HwvQnDULtFSfih,72,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-04,ICmqJzaoWUpyj6,27,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-04,IEJDxs6E57EG8a,80,77,5,info@7-10.in,,Sanghvi Erectors Pvt Limited,2024-06-21,2024-05-14,625.0,Success,Successful,0.9625
+2024-04,IRNe12O1nqpPQL,333,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-04,ITMw84kujaCKhO,333,39,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.1171
+2024-04,J48RMdC1b73dYg,1023,550,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.5376
+2024-04,JNrymGlbgxRl04,177,177,1,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-05-14,,100.0,Success,Successful,1.0
+2024-04,Je6WBJUrSvp7Ut,496,467,41,akj@rasoishop.com,,RASOISHOP VENTURES PRIVATE LIMITED,2024-05-14,,5125.0,Success,Successful,0.9415
+2024-04,JkuJOHbtFLHR1p,431,431,14,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-08-27,2024-08-14,1400.0,Success,Successful,1.0
+2024-04,KV9N7Dk5Fe5OSm,33,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-04,Kb86PrdlM26Wf5,93,87,25,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2024-07-12,2024-06-28,1875.0,Success,Successful,0.9355
+2024-05,ChdCdGm7TvuVk6,2,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-05,CjaeQlPFXFvaLN,976,975,148,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-06-20,,8174.65,Success,Successful,0.999
+2024-05,CtHTcKWCa4ZDeF,8,4,0,shwetashivkumar@ymail.com,,whysoblue,,2024-10-28,0.0,,Pending status,0.5
+2024-05,CyFgPUrwzJ5VhG,497,493,105,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-10-29,2024-10-28,8400.0,Success,Successful,0.992
+2024-05,DRA8pvry1C4oTC,1725,1701,111,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-06-20,,13875.0,Success,Successful,0.9861
+2024-05,DUKiYoYvbaUXud,4510,3902,737,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-06-20,,12300.0,Success,Successful,0.8652
+2024-05,DkYdOAXPbbqFwT,929,929,121,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-06-20,,7260.0,Success,Successful,1.0
+2024-05,Dq7VZ3fMp7qQQ7,1133,1131,222,sugandhini@thehadenaturals.com,,The Hade,2024-06-20,,12215.950000000004,Success,Successful,0.9982
+2024-05,E2NWmnnFI68dlm,1,0,0,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-05,EJIXcnbMpszHqe,671,671,96,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-06-20,,13200.0,Success,Successful,1.0
+2024-05,EJu3xUe1qpgeB8,90,81,18,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-06-20,,2250.0,Success,Successful,0.9
+2024-05,EyqQxodBBBYpm6,1279,1151,259,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-06-20,,20720.0,Success,Successful,0.8999
+2024-05,FGmEEx9rbF5e8F,372,366,82,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-06-29,2024-06-28,3000.0,Success,Successful,0.9839
+2024-05,FQLy8isl8cBT4q,881,771,142,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-06-20,,7810.0,Success,Successful,0.8751
+2024-05,FR2kZCaWIQTnDn,3440,3048,642,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,54960.0,Success,Successful,0.886
+2024-05,FiVc88jM7AeSta,64,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,0.0,,Pending status,0.0
+2024-05,G4WBGNh0UU0RUp,450,376,47,support@stylefeathers.com,,Style Feathers,2024-06-20,,2392.23,Success,Successful,0.8356
+2024-05,G6XfSND0uWWQzn,2,0,0,ashwath@advaitindia.com,,Advait Fashion Management Pvt Ltd,,2024-10-28,0.0,,Pending status,0.0
+2024-05,GGONsupA74tYXV,7,3,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.4286
+2024-05,GYxvSchZt2syEE,1116,0,0,divakar.venkat@hh.global,,HEALTH AND HAPPINESS (H&H) TRADING INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-05,Glk1BQ6cvvA8DJ,1539,1485,248,jhashankgupta@gmail.com,,Lazo,2024-06-20,,19840.0,Success,Successful,0.9649
+2024-05,HD1eg1yHtJmz5O,88,88,9,ibcorporation@live.com,,I B CORPORATION,2024-06-21,,900.0,Success,Successful,1.0
+2024-05,HJHvrI58d1PqIe,633,569,45,japjeet@fflirtygo.com,,Graffiti,2024-06-20,,3600.0,Success,Successful,0.8989
+2024-05,HjDCaAKmzwvZVr,372,368,79,khatushyamcreations@gmail.com,,Khatushyam Creations,2024-06-20,,9875.0,Success,Successful,0.9892
+2024-05,HkhexJSLXjxnVH,9,6,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Pending status,0.6667
+2024-05,HwvQnDULtFSfih,84,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-05,ICmqJzaoWUpyj6,34,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-05,IEJDxs6E57EG8a,181,73,3,info@7-10.in,,Sanghvi Erectors Pvt Limited,,2024-10-28,375.0,,Pending status,0.4033
+2024-05,IRNe12O1nqpPQL,136,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-05,ITMw84kujaCKhO,435,32,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.0736
+2024-05,J48RMdC1b73dYg,349,182,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.5215
+2024-05,JNrymGlbgxRl04,217,216,1,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-06-20,,63.2,Success,Successful,0.9954
+2024-05,JkuJOHbtFLHR1p,12,12,2,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-08-27,2024-08-14,200.0,Success,Successful,1.0
+2024-05,KV9N7Dk5Fe5OSm,8,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-05,Kb86PrdlM26Wf5,18,13,3,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,,2024-10-28,225.0,,Pending status,0.7222
+2024-06,CjaeQlPFXFvaLN,554,551,82,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-07-19,,4443.680000000001,Success,Successful,0.9946
+2024-06,CtHTcKWCa4ZDeF,4,4,1,shwetashivkumar@ymail.com,,whysoblue,2024-07-19,,200.0,Success,Successful,1.0
+2024-06,CyFgPUrwzJ5VhG,380,375,74,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-10-29,2024-10-28,5920.0,Success,Successful,0.9868
+2024-06,DRA8pvry1C4oTC,1174,183,2,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,,2024-10-28,250.0,,Pending status,0.1559
+2024-06,DUKiYoYvbaUXud,4330,3765,681,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-07-19,,24825.0,Success,Successful,0.8695
+2024-06,DkYdOAXPbbqFwT,589,589,83,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-07-19,,4980.0,Success,Successful,1.0
+2024-06,Dq7VZ3fMp7qQQ7,474,471,68,sugandhini@thehadenaturals.com,,The Hade,2024-07-19,,3858.79,Success,Successful,0.9937
+2024-06,EJIXcnbMpszHqe,778,777,110,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-07-19,,11275.0,Success,Successful,0.9987
+2024-06,EJu3xUe1qpgeB8,89,82,16,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-07-19,,2000.0,Success,Successful,0.9213
+2024-06,EyqQxodBBBYpm6,924,780,128,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-07-19,,10240.0,Success,Successful,0.8442
+2024-06,FGmEEx9rbF5e8F,233,212,50,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-07-24,2024-07-21,1500.0,Success,Successful,0.9099
+2024-06,FQLy8isl8cBT4q,1609,1410,231,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-07-19,,12705.0,Success,Successful,0.8763
+2024-06,FR2kZCaWIQTnDn,3290,2907,2,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,240.0,Success,Successful,0.8836
+2024-06,FiVc88jM7AeSta,56,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,0.0,,Pending status,0.0
+2024-06,G4WBGNh0UU0RUp,987,798,143,support@stylefeathers.com,,Style Feathers,2024-07-19,,7924.780000000001,Success,Successful,0.8085
+2024-06,GGONsupA74tYXV,2,1,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.5
+2024-06,Glk1BQ6cvvA8DJ,1212,1166,223,jhashankgupta@gmail.com,,Lazo,2024-11-12,2024-10-28,17840.0,Success,Successful,0.962
+2024-06,HD1eg1yHtJmz5O,122,120,14,ibcorporation@live.com,,I B CORPORATION,2024-07-21,2024-07-19,1400.0,Success,Successful,0.9836
+2024-06,HJHvrI58d1PqIe,667,568,78,japjeet@fflirtygo.com,,Graffiti,2024-07-19,,6240.0,Success,Successful,0.8516
+2024-06,HjDCaAKmzwvZVr,410,399,73,khatushyamcreations@gmail.com,,Khatushyam Creations,2024-07-19,,9125.0,Success,Successful,0.9732
+2024-06,HkhexJSLXjxnVH,8,6,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Pending status,0.75
+2024-06,HwvQnDULtFSfih,23,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-06,ICmqJzaoWUpyj6,27,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-06,IEJDxs6E57EG8a,28,19,0,info@7-10.in,,Sanghvi Erectors Pvt Limited,,2024-10-28,0.0,,Pending status,0.6786
+2024-06,IRNe12O1nqpPQL,31,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-06,ITMw84kujaCKhO,490,50,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.102
+2024-06,J48RMdC1b73dYg,5,3,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.6
+2024-06,J9gbExGT03ZUbk,269,24,24,innovationwakeup@gmail.com,,Wakeup Innovation Private Limited,,2024-10-28,600.0,,Pending status,0.0892
+2024-06,JNrymGlbgxRl04,238,238,3,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-07-19,,285.1,Success,Successful,1.0
+2024-06,JkuJOHbtFLHR1p,279,279,14,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-08-27,2024-08-14,1400.0,Success,Successful,1.0
+2024-06,KV9N7Dk5Fe5OSm,2,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-06,Kb86PrdlM26Wf5,28,20,3,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,,2024-10-28,225.0,,Pending status,0.7143
+2024-07,ChdCdGm7TvuVk6,1,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-07,CjaeQlPFXFvaLN,1021,1020,145,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-08-14,,6345.38,Success,Successful,0.999
+2024-07,CyFgPUrwzJ5VhG,190,186,29,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-09-10,2024-08-28,2320.0,Success,Successful,0.9789
+2024-07,DRA8pvry1C4oTC,1240,1175,32,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-08-14,,4000.0,Success,Successful,0.9476
+2024-07,DUKiYoYvbaUXud,4704,4395,778,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-08-14,,32925.0,Success,Successful,0.9343
+2024-07,DkYdOAXPbbqFwT,627,627,67,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-08-14,,4020.0,Success,Successful,1.0
+2024-07,Dq7VZ3fMp7qQQ7,676,664,152,sugandhini@thehadenaturals.com,,The Hade,2024-08-14,,8751.080000000002,Success,Successful,0.9822
+2024-07,E2NWmnnFI68dlm,1,0,0,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-07,EJIXcnbMpszHqe,532,532,76,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-08-14,,13750.0,Success,Successful,1.0
+2024-07,EJu3xUe1qpgeB8,189,178,30,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-08-14,,3750.0,Success,Successful,0.9418
+2024-07,EyqQxodBBBYpm6,907,750,112,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-08-14,,8960.0,Success,Successful,0.8269
+2024-07,FGmEEx9rbF5e8F,196,188,38,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-08-31,2024-08-28,975.0,Success,Successful,0.9592
+2024-07,FQLy8isl8cBT4q,1885,1656,331,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-08-14,,12980.0,Success,Successful,0.8785
+2024-07,FR2kZCaWIQTnDn,2945,2497,38,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-04,,3240.0,Success,Successful,0.8479
+2024-07,FiVc88jM7AeSta,55,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,0.0,,Pending status,0.0
+2024-07,G4WBGNh0UU0RUp,1020,796,144,support@stylefeathers.com,,Style Feathers,,2024-10-28,11520.0,,Pending status,0.7804
+2024-07,GGONsupA74tYXV,4,0,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-07,Glk1BQ6cvvA8DJ,1184,1119,191,jhashankgupta@gmail.com,,Lazo,2024-11-12,2024-10-28,15280.0,Success,Successful,0.9451
+2024-07,HD1eg1yHtJmz5O,159,146,0,ibcorporation@live.com,,I B CORPORATION,,2024-10-28,0.0,,Incorrect status,0.9182
+2024-07,HJHvrI58d1PqIe,760,595,121,japjeet@fflirtygo.com,,Graffiti,,2024-10-28,9680.0,,Pending status,0.7829
+2024-07,HjDCaAKmzwvZVr,1311,1274,288,khatushyamcreations@gmail.com,,Khatushyam Creations,2024-08-27,2024-08-14,36000.0,Success,Successful,0.9718
+2024-07,HkhexJSLXjxnVH,4,4,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Incorrect status,1.0
+2024-07,HwvQnDULtFSfih,28,0,0,nikita@truvitals.in,,NIARA HEALTHCARE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-07,ICmqJzaoWUpyj6,30,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-07,IRNe12O1nqpPQL,14,0,0,jovita@bartisans.in,,ROUND THE COCKTAILS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-07,ITMw84kujaCKhO,362,25,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.0691
+2024-07,J48RMdC1b73dYg,58,30,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.5172
+2024-07,J9gbExGT03ZUbk,501,0,0,innovationwakeup@gmail.com,,Wakeup Innovation Private Limited,,2024-10-28,0.0,,Pending status,0.0
+2024-07,JNrymGlbgxRl04,171,171,0,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,,2024-10-28,0.0,,Incorrect status,1.0
+2024-07,JkuJOHbtFLHR1p,329,329,12,pgm@nutcaseshop.com,snp.billing@gmail.com,SNP ENTERPRISE,2024-08-27,2024-08-14,1200.0,Success,Successful,1.0
+2024-07,KV9N7Dk5Fe5OSm,13,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-07,Kb86PrdlM26Wf5,9,9,2,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,2024-08-16,2024-08-14,150.0,Success,Successful,1.0
+2024-08,ChdCdGm7TvuVk6,14,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-08,CjaeQlPFXFvaLN,1192,1192,177,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-09-15,,8303.54,Success,Successful,1.0
+2024-08,CyFgPUrwzJ5VhG,66,62,11,vidhi@oleumcottage.com,,Cocoburra Cosmeceuticals Private Ltd.,2024-10-30,2024-10-28,880.0,Success,Successful,0.9394
+2024-08,DRA8pvry1C4oTC,1272,1210,90,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-09-15,,11250.0,Success,Successful,0.9513
+2024-08,DUKiYoYvbaUXud,4810,4591,843,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-09-15,,33825.0,Success,Successful,0.9545
+2024-08,DkYdOAXPbbqFwT,596,596,70,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-09-15,,4200.0,Success,Successful,1.0
+2024-08,Dq7VZ3fMp7qQQ7,1979,1975,480,sugandhini@thehadenaturals.com,,The Hade,2024-09-15,,27660.550000000003,Success,Successful,0.998
+2024-08,E2NWmnnFI68dlm,2,0,0,tasuvure@gmail.com,arnavsaraf1309@gmail.com,HI LIFE EXPORTS PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-08,EJIXcnbMpszHqe,816,815,131,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-09-15,,22000.0,Success,Successful,0.9988
+2024-08,EJu3xUe1qpgeB8,199,173,51,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-09-15,,6375.0,Success,Successful,0.8693
+2024-08,EyqQxodBBBYpm6,855,740,107,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-10-30,2024-10-28,8560.0,Success,Successful,0.8655
+2024-08,FGmEEx9rbF5e8F,200,185,39,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-10-23,2024-10-14,750.0,Success,Successful,0.925
+2024-08,FQLy8isl8cBT4q,3210,2681,687,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-09-15,,19305.0,Success,Successful,0.8352
+2024-08,FR2kZCaWIQTnDn,2356,2096,102,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-09-15,,9000.0,Success,Successful,0.8896
+2024-08,FiVc88jM7AeSta,114,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,0.0,,Pending status,0.0
+2024-08,G4WBGNh0UU0RUp,1432,1106,230,support@stylefeathers.com,,Style Feathers,,2024-10-28,18400.0,,Pending status,0.7723
+2024-08,GGONsupA74tYXV,1,0,0,info@digitalsellpro.com,sunny.makhija@digitalsellpro.com ,SELLPRO COMMERCE PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-08,Glk1BQ6cvvA8DJ,2191,1651,255,jhashankgupta@gmail.com,,Lazo,,2024-10-28,16880.0,,Pending status,0.7535
+2024-08,HD1eg1yHtJmz5O,183,170,0,ibcorporation@live.com,,I B CORPORATION,,2024-10-28,0.0,,Incorrect status,0.929
+2024-08,HJHvrI58d1PqIe,1112,893,200,japjeet@fflirtygo.com,,Graffiti,2024-09-25,,16000.0,Success,Successful,0.8031
+2024-08,Hb4zHHsoxSeZol,687,1,1,arvind@vegaauto.com,,VEGA AUTO ACCESSORIES PRIVATE LIMITED,,2024-10-28,150.0,,Pending status,0.0015
+2024-08,HjDCaAKmzwvZVr,1151,1055,341,khatushyamcreations@gmail.com,,Khatushyam Creations,2024-09-15,,42625.0,Success,Successful,0.9166
+2024-08,HkhexJSLXjxnVH,4,2,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Pending status,0.5
+2024-08,ICmqJzaoWUpyj6,29,0,0,chirag@mendeserve.com,,YOUNG ELEGANCE LIFE CARE,,2024-10-28,0.0,,Pending status,0.0
+2024-08,ITMw84kujaCKhO,389,32,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.0823
+2024-08,J48RMdC1b73dYg,773,357,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.4618
+2024-08,JNrymGlbgxRl04,190,190,0,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,,2024-10-28,0.0,,Incorrect status,1.0
+2024-08,KV9N7Dk5Fe5OSm,11,0,0,petolyrazorpay@gmail.com,,OLYMPIA INDUSTRIES LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-08,Kb86PrdlM26Wf5,4,4,0,abdul.shoeb@goatbrandlabs.com,,GBL RIGEL PRIVATE LIMITED,,2024-10-28,0.0,,Incorrect status,1.0
+2024-08,NEEDBMIuj4musE,107,82,12,"team@poshpantsclub.com, jhashankgupta@gmail.com",,Posh Pants Club,,2024-10-28,700.0,,Pending status,0.7664
+2024-09,4af5pL6Gz4AElE,1797,1740,357,kausshal@teabox.com,diwaker@teabox.com,Teabox,2024-10-14,,53550.0,Success,Successful,0.9683
+2024-09,88jVsv1Xwk5VMu,150,36,0,deepakkumar.sethi@mfine.co,,NovoCura Tech Health Services Pvt Ltd,,2024-10-28,0.0,,Pending status,0.24
+2024-09,BqXXZlzZJLWsIV,3,0,0,jankee@fancypantsthestore.com,,Fancy Pants Apparels LLP,,2024-10-28,0.0,,Pending status,0.0
+2024-09,ChdCdGm7TvuVk6,22,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,2024-10-28,0.0,,Pending status,0.0
+2024-09,CjaeQlPFXFvaLN,521,521,77,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-10-14,,3512.6800000000007,Success,Successful,1.0
+2024-09,DRA8pvry1C4oTC,1165,1124,111,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-10-14,,13875.0,Success,Successful,0.9648
+2024-09,DUKiYoYvbaUXud,4391,4007,714,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-10-14,,27525.0,Success,Successful,0.9125
+2024-09,DkYdOAXPbbqFwT,713,713,103,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-10-14,,6180.0,Success,Successful,1.0
+2024-09,Dq7VZ3fMp7qQQ7,2218,2218,506,sugandhini@thehadenaturals.com,,The Hade,2024-10-14,,27120.4,Success,Successful,1.0
+2024-09,EJIXcnbMpszHqe,947,945,258,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-10-14,,27500.0,Success,Successful,0.9979
+2024-09,EJu3xUe1qpgeB8,174,142,35,gauravkhurana1987@gmail.com,,Aganya Kreations,2024-10-21,2024-10-14,4375.0,Success,Successful,0.8161
+2024-09,EyqQxodBBBYpm6,433,367,67,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,2024-10-14,,5360.0,Success,Successful,0.8476
+2024-09,FGmEEx9rbF5e8F,133,110,16,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,2024-10-22,2024-10-14,300.0,Success,Successful,0.8271
+2024-09,FQLy8isl8cBT4q,2226,1835,416,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,2024-10-14,,9845.0,Success,Successful,0.8243
+2024-09,FR2kZCaWIQTnDn,994,869,52,ratnakar@guniaa.com ,niladri@guniaa.com,GUNIAA,2024-10-14,,5040.0,Success,Successful,0.8742
+2024-09,FiVc88jM7AeSta,84,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,2024-10-28,0.0,,Pending status,0.0
+2024-09,G4WBGNh0UU0RUp,567,435,75,support@stylefeathers.com,,Style Feathers,,2024-10-28,6000.0,,Pending status,0.7672
+2024-09,Glk1BQ6cvvA8DJ,1497,1281,254,jhashankgupta@gmail.com,,Lazo,2024-11-06,2024-10-28,6000.0,Success,Successful,0.8557
+2024-09,HJHvrI58d1PqIe,515,432,72,japjeet@fflirtygo.com,,Graffiti,2024-10-14,,5760.0,Success,Successful,0.8388
+2024-09,Hb4zHHsoxSeZol,710,7,5,arvind@vegaauto.com,,VEGA AUTO ACCESSORIES PRIVATE LIMITED,,2024-10-28,750.0,,Pending status,0.0099
+2024-09,HjDCaAKmzwvZVr,1485,1359,431,khatushyamcreations@gmail.com,,Khatushyam Creations,2024-10-14,,53875.0,Success,Successful,0.9152
+2024-09,HkhexJSLXjxnVH,20,17,0,metrixretails@gmail.com,,METRIX RETAILS,,2024-10-28,0.0,,Incorrect status,0.85
+2024-09,HlwbxJbuVSfd60,109,2,2,kiayashopindia@gmail.com,,Kiaya Accessories (MSC Group),,2024-10-28,160.0,,Pending status,0.0183
+2024-09,ITMw84kujaCKhO,443,28,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,2024-10-28,0.0,,Pending status,0.0632
+2024-09,J48RMdC1b73dYg,1121,562,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,2024-10-28,0.0,,Pending status,0.5013
+2024-09,JNrymGlbgxRl04,109,108,0,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,,2024-10-28,0.0,,Incorrect status,0.9908
+2024-09,NEEDBMIuj4musE,223,186,29,"team@poshpantsclub.com, jhashankgupta@gmail.com",,Posh Pants Club,2024-11-07,2024-10-28,2100.0,Success,Successful,0.8341
+2024-10,88jVsv1Xwk5VMu,113,53,0,deepakkumar.sethi@mfine.co,,NovoCura Tech Health Services Pvt Ltd,,,0.0,,,0.469
+2024-10,BqXXZlzZJLWsIV,174,0,0,jankee@fancypantsthestore.com,,Fancy Pants Apparels LLP,,,0.0,,,0.0
+2024-10,ChdCdGm7TvuVk6,1665,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,,0.0,,,0.0
+2024-10,CjaeQlPFXFvaLN,709,708,108,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,2024-11-18,,4860.520000000001,Success,Successful,0.9986
+2024-10,DRA8pvry1C4oTC,1225,1152,136,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,2024-11-18,,17000.0,Success,Successful,0.9404
+2024-10,DUKiYoYvbaUXud,4559,3998,872,folliculartechnologies@gmail.com,,follicular technologies private limited,2024-11-18,,27375.0,Success,Successful,0.8769
+2024-10,DkYdOAXPbbqFwT,1284,1280,238,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,2024-11-18,,14280.0,Success,Successful,0.9969
+2024-10,Dq7VZ3fMp7qQQ7,1627,1593,401,sugandhini@thehadenaturals.com,,The Hade,2024-11-18,,22985.230000000003,Success,Successful,0.9791
+2024-10,EJIXcnbMpszHqe,1358,1353,282,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,2024-11-18,,25575.0,Success,Successful,0.9963
+2024-10,EJu3xUe1qpgeB8,251,174,27,gauravkhurana1987@gmail.com,,Aganya Kreations,,,3375.0,,,0.6932
+2024-10,EyqQxodBBBYpm6,655,487,86,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,,,6880.0,,,0.7435
+2024-10,FGmEEx9rbF5e8F,184,76,10,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,,,225.0,,,0.413
+2024-10,FQLy8isl8cBT4q,2551,2037,551,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,,,10505.0,,,0.7985
+2024-10,FiVc88jM7AeSta,93,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,,0.0,,,0.0
+2024-10,G4WBGNh0UU0RUp,834,651,152,support@stylefeathers.com,,Style Feathers,,,12160.0,,,0.7806
+2024-10,GX2Z0I7L07K19g,8,0,0,"info@notsosure.in
+",,NOTSOSURE,,,0.0,,,0.0
+2024-10,Glk1BQ6cvvA8DJ,1288,1171,266,jhashankgupta@gmail.com,,Lazo,2024-11-18,,12320.0,Success,Successful,0.9092
+2024-10,HJHvrI58d1PqIe,1073,832,175,japjeet@fflirtygo.com,,Graffiti,,,14000.0,,,0.7754
+2024-10,Hb4zHHsoxSeZol,651,0,0,arvind@vegaauto.com,,VEGA AUTO ACCESSORIES PRIVATE LIMITED,,,0.0,,,0.0
+2024-10,HjDCaAKmzwvZVr,6,3,0,khatushyamcreations@gmail.com,,Khatushyam Creations,,,0.0,,,0.5
+2024-10,HkhexJSLXjxnVH,10,7,0,metrixretails@gmail.com,,METRIX RETAILS,,,0.0,,,0.7
+2024-10,HlwbxJbuVSfd60,51,5,0,kiayashopindia@gmail.com,,Kiaya Accessories (MSC Group),,,0.0,,,0.098
+2024-10,ITMw84kujaCKhO,625,23,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,,0.0,,,0.0368
+2024-10,J48RMdC1b73dYg,1318,649,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,,0.0,,,0.4924
+2024-10,JNrymGlbgxRl04,107,106,12,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,2024-11-18,,926.8,Success,Successful,0.9907
+2024-10,NEEDBMIuj4musE,117,107,20,"team@poshpantsclub.com, jhashankgupta@gmail.com",,Posh Pants Club,2024-11-18,,1800.0,Success,Successful,0.9145
+2024-11,88jVsv1Xwk5VMu,123,34,0,deepakkumar.sethi@mfine.co,,NovoCura Tech Health Services Pvt Ltd,,,0.0,,,0.2764
+2024-11,BqXXZlzZJLWsIV,33,0,0,jankee@fancypantsthestore.com,,Fancy Pants Apparels LLP,,,0.0,,,0.0
+2024-11,ChdCdGm7TvuVk6,27,0,0,dharini.bajaj@imaginemarketingindia.com,,IMAGINE MARKETING LIMITED,,,0.0,,,0.0
+2024-11,CjaeQlPFXFvaLN,455,265,22,karishma@faebeauty.in,mayur@faebeauty.in ,FAE BEAUTY PRIVATE LIMITED,,,1806.7999999999997,,,0.5824
+2024-11,DRA8pvry1C4oTC,533,392,47,abhishek@arborealstevia.com,accounts@arborealstevia.com,Arboreal Bioinnovations Pvt Ltd,,,5875.0,,,0.7355
+2024-11,DUKiYoYvbaUXud,2758,1570,199,folliculartechnologies@gmail.com,,follicular technologies private limited,,,6975.0,,,0.5693
+2024-11,DkYdOAXPbbqFwT,660,521,58,ankit.mondal@rekhta.org,avisar.diwaker@rekhta.org,Rekhta Foundation,,,3480.0,,,0.7894
+2024-11,Dq7VZ3fMp7qQQ7,765,481,47,sugandhini@thehadenaturals.com,,The Hade,,,3374.4,,,0.6288
+2024-11,EJIXcnbMpszHqe,771,603,108,supriyamalik@indulgeoessentials.com ,,Indulgeo Essentials,,,9350.0,,,0.7821
+2024-11,EJu3xUe1qpgeB8,88,24,4,gauravkhurana1987@gmail.com,,Aganya Kreations,,,500.0,,,0.2727
+2024-11,EyqQxodBBBYpm6,254,119,13,fullyfilmy.in@gmail.com,anand@fullyfilmy.in,Plan Z Digital Private Limited,,,1040.0,,,0.4685
+2024-11,FGmEEx9rbF5e8F,62,19,0,mail.ecentric@gmail.com,salendra@ecentric.in,Ecentric India Pvt Ltd,,,0.0,,,0.3065
+2024-11,FQLy8isl8cBT4q,1034,638,136,gokulraj@cookdtv.com,,Cookd Ventures Private Limited,,,3575.0,,,0.617
+2024-11,FiVc88jM7AeSta,68,0,0,punammetalcrafts@gmail.com,,Punam Metalcrafts,,,0.0,,,0.0
+2024-11,G4WBGNh0UU0RUp,426,166,26,support@stylefeathers.com,,Style Feathers,,,2080.0,,,0.3897
+2024-11,GX2Z0I7L07K19g,1,0,0,"info@notsosure.in
+",,NOTSOSURE,,,0.0,,,0.0
+2024-11,Glk1BQ6cvvA8DJ,754,457,84,jhashankgupta@gmail.com,,Lazo,,,2800.0,,,0.6061
+2024-11,HD1eg1yHtJmz5O,20,0,0,ibcorporation@live.com,,I B CORPORATION,,,0.0,,,0.0
+2024-11,HJHvrI58d1PqIe,351,168,43,japjeet@fflirtygo.com,,Graffiti,,,3440.0,,,0.4786
+2024-11,Hb4zHHsoxSeZol,285,0,0,arvind@vegaauto.com,,VEGA AUTO ACCESSORIES PRIVATE LIMITED,,,0.0,,,0.0
+2024-11,HjDCaAKmzwvZVr,4,0,0,khatushyamcreations@gmail.com,,Khatushyam Creations,,,0.0,,,0.0
+2024-11,HkhexJSLXjxnVH,3,1,0,metrixretails@gmail.com,,METRIX RETAILS,,,0.0,,,0.3333
+2024-11,HlwbxJbuVSfd60,21,4,0,kiayashopindia@gmail.com,,Kiaya Accessories (MSC Group),,,0.0,,,0.1905
+2024-11,ITMw84kujaCKhO,293,7,0,suryakant@meenabazaar.shop ,,Meena Bazaar ,,,0.0,,,0.0239
+2024-11,J48RMdC1b73dYg,743,304,0,sarvodayamindia@gmail.com,,SARVODAYAM MEDICALS INDIA PRIVATE LIMITED,,,0.0,,,0.4092
+2024-11,JNrymGlbgxRl04,59,44,6,vidushi@isakfragrances.com,,ISAK AROMAS PRIVATE LIMITED,,,563.2,,,0.7458
+2024-11,NEEDBMIuj4musE,47,36,3,"team@poshpantsclub.com, jhashankgupta@gmail.com",,Posh Pants Club,,,300.0,,,0.766
